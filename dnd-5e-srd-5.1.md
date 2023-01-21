@@ -13,7 +13,8 @@ form in which an existing work may be recast, transformed or adapted; (c) "Distr
 and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are
 used by a Contributor to identify itself or its
 products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You"
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 1
+
+
 
 or "Your" means the licensee in terms of this agreement.
 2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
@@ -33,7 +34,8 @@ or "Your" means the licensee in terms of this agreement.
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, LLC.
 System Reference Document 5.1 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson.
 END OF LICENSE
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 2
+
+
 
   If you note any errors in this document, please let us know by emailing askdnd@wizards.com.
   Races
@@ -67,7 +69,8 @@ Dwarven Combat Training. You have proficiency with the battleaxe, handaxe, light
 Tool Proficiency. You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
 Stonecunning. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 Languages. You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 3
+
+
 
 Hill Dwarf
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
@@ -102,7 +105,8 @@ Size. Halflings average about 3 feet tall and weigh about 40 pounds. Your size i
 Speed. Your base walking speed is 25 feet.
 Lucky. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
 Brave. You have advantage on saving throws against being frightened.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 4
+
+
 
 Halfling Nimbleness. You can move through the space of any creature that is of a size larger than yours.
 Languages. You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
@@ -161,7 +165,8 @@ Breath Weapon
 15 ft. cone (Dex. save)
 15 ft. cone (Con. save)
 15 ft. cone (Con. save)
-      Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 5
+
+
 Draconic Ancestry. You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 Breath Weapon. You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
 When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful
@@ -195,7 +200,8 @@ Your half-­‐‑elf character has some qualities in common with elves and some
 Ability Score Increase. Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
 Age. Half-­‐‑elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
 Alignment. Half-­‐‑elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others’ demands, and
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 6
+
+
 
 sometimes prove unreliable, or at least unpredictable.
 Size. Half-­‐‑elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
@@ -230,7 +236,8 @@ Darkvision. Thanks to your infernal heritage, you have superior vision in dark a
 Hellish Resistance. You have resistance to fire damage.
 Infernal Legacy. You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-­‐‑level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 Languages. You can speak, read, and write Common and Infernal.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 7
+
+
 
  Barbarian Class Features
 As a barbarian, you gain the following class features.
@@ -300,7 +307,8 @@ Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 Unarmored Defense
 While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 8
+
+
 +5 Brutal Critical 5 +3 (2 dice)
  +2 Rage, 2 +2 Unarmored
 Defense
@@ -343,7 +351,8 @@ Path of the Berserker
 For some barbarians, rage is a means to an end— that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-­‐‑being.
 Frenzy
 Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix PH-­‐‑A).
-             Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 9
+
+
 
 Mindless Rage
 Beginning at 6th level, you can’t be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
@@ -352,8 +361,7 @@ Beginning at 10th level, you can use your action to frighten someone with your m
 If the creature succeeds on its saving throw, you can’t use this feature on that creature again for 24 hours.
 Retaliation
 Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 10
+
 
 Bard
 Class Features
@@ -433,7 +441,8 @@ Spells —Spell Slots per Spell Level—
 2 1 2 1 2 1 3 1 3 2 3 2
 1 ̶̶ 1 1̶
 1 1̶ 1 11 1 11 1 11 2 11
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 11
+
+
 
 Cantrips
 You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
@@ -464,7 +473,8 @@ Beginning at 2nd level, you can use soothing music or oration to help revitalize
 The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 Bard College
 At 3rd level, you delve into the advanced techniques of a bard college of your choice, such as the College of Lore. Your choice grants you features at 3rd level and again at 6th and 14th level.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 12
+
+
 
 Expertise
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
@@ -491,12 +501,12 @@ Cutting Words
 Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature’s roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can’t hear you or if it’s immune to being charmed.
 Additional Magical Secrets
 At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don’t count against the number of bard spells you know.
-       Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 13
+
+
 
 Peerless Skill
 Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 14
+
 
 Cleric Class Features
 As a cleric, you gain the following class features.
@@ -563,7 +573,8 @@ Divine Intervention improvement
 1 ̶̶ ̶̶ 2 ̶̶̶̶ 2 1 ̶̶̶ 2 1 ̶̶̶ 2 1 1̶̶ 2 1 1̶̶ 2 1 11̶ 2 1 11̶
      +6 Destroy Undead (CR 4), Divine Domain 5 feature
 433321111
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 15
+
+
 5 4 5 4 5 4
 Cantrips
 At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
@@ -596,7 +607,8 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 Channel Divinity: Turn Undead
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 16
+
+
 
 Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
@@ -649,10 +661,12 @@ If your deity intervenes, you can’t use this feature again for 7 days. Otherwi
 At 20th level, your call for intervention succeeds automatically, no roll required.
 Life Domain
 The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-­‐‑evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-­‐‑Horakhty), gods of healing or
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 17
+
+
 
 each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 18
+
+
 
 Druid
 Class Features
@@ -741,7 +755,8 @@ Features
 can speak the language and use it to leave hidden Spellcasting
 messages. You and others who know this language automatically spot such a message. Others spot the message’s presence with a successful DC 15 Wisdom
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 19
+
+
 
 Cantrips
 At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
@@ -769,7 +784,8 @@ Limitations
 No flying speed
 Example
 Crocodile
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 20
+
+
 1/4 No flying or swimming Wolf speed
 1 — Giant eagle
  You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
@@ -802,7 +818,8 @@ Starting at 2nd level, you can regain some of your magical energy by sitting in 
 For example, when you are a 4th-­‐‑level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-­‐‑level slot or two 1st-­‐‑level slots.
 Circle Spells
 Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
-      Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 21
+
+
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 5th water walk, stinking cloud
@@ -875,12 +892,12 @@ acid arrow, darkness
 A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
 Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
-      Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 22
+
 
   Druids and the Gods
 Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix PH- B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 23
+
+
 
 Fighter Class Features
 As a fighter, you gain the following class features.
@@ -943,7 +960,8 @@ Two-Weapon Fighting
 When you engage in two-­‐‑weapon fighting, you can add your ability modifier to the damage of the second attack.
 Second Wind
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. Once you use this feature, you must finish a short or long rest before you can use it again.
-         Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 24
+
+
 
 Action Surge
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
@@ -974,8 +992,7 @@ Superior Critical
 Starting at 15th level, your weapon attacks score a critical hit on a roll of 18–20.
 Survivor
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don’t gain this benefit if you have 0 hit points.
-      Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 25
+
 
        Monk
 Class Features
@@ -1086,7 +1103,8 @@ Unarmored Movement
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
 Martial Arts
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-­‐‑ handed or heavy property.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 26
+
+
 
 make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.
@@ -1116,7 +1134,8 @@ Slow Fall
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-       Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 27
+
+
 
 Stunning Strike
 Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
@@ -1151,7 +1170,8 @@ Starting when you choose this tradition at 3rd level, you can manipulate your en
 • It can’t take reactions until the end of your next turn.
 Wholeness of Body
 At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three
-           Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 28
+
+
 
 times your monk level. You must finish a long rest before you can use this feature again.
 Tranquility
@@ -1159,8 +1179,7 @@ Beginning at 11th level, you can enter a special meditation that surrounds you w
 Quivering Palm
 At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 29
+
 
 Paladin Class Features
 As a paladin, you gain the following class features.
@@ -1214,7 +1233,8 @@ Sacred Oath feature
  ̶ ̶ 2 ̶ 3 ̶ 3 ̶ 4 2 4 2 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3
          Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 30
+
+
 
 Lay on Hands
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
@@ -1246,7 +1266,8 @@ Spellcasting Focus
 You can use a holy symbol as a spellcasting focus for your paladin spells.
 Divine Smite
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage. The extra damage is 2d8 for a 1st-­‐‑level spell slot, plus 1d8 for each spell level
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 31
+
+
 
 higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.
 Divine Health
@@ -1280,7 +1301,8 @@ Sacred Oaths
 Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when he or she reaches 3rd level, is the culmination of all the paladin’s training. Some characters with this class don’t consider themselves true paladins until they have reached 3rd level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin’s heart.
 Oath of Devotion
 The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these
-         Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 32
+
+
 
 paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods’ tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 Tenets of Devotion
@@ -1317,12 +1339,12 @@ Once you use this feature, you can’t use it again until you finish a long rest
      Breaking Your Oath
 A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
 A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 33
+
 
 or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
 If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 34
+
+
 
 Ranger Class Features
 As a ranger, you gain the following class features.
@@ -1400,7 +1422,8 @@ Beginning at 1st level, you have significant experience studying, tracking, hunt
 Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of
 3 3 3 3 3 3
 31 31 32
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 35
+
+
 
 you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
 Natural Explorer
@@ -1442,7 +1465,8 @@ Spellcasting Ability
 Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
 Spell attack modifier = your proficiency bonus + your Wisdom modifier
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 36
+
+
 
 Ranger Archetype
 At 3rd level, you choose an archetype that you strive to emulate, such as the Hunter. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
@@ -1472,7 +1496,8 @@ Emulating the Hunter archetype means accepting your place as a bulwark between c
 Hunter’s Prey
 At 3rd level, you gain one of the following features of your choice.
 Colossus Slayer. Your tenacity can wear down the most potent foes. When you hit a creature with a
-          Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 37
+
+
 
 weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
 Giant Killer. When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
@@ -1492,8 +1517,7 @@ Evasion. When you are subjected to an effect, such as a red dragon’s fiery bre
 Stand Against the Tide. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same
 attack against another creature (other than itself) of your choice.
 Uncanny Dodge. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 38
+
 
 Rogue Class Features
 As a rogue, you have the following class features.
@@ -1556,7 +1580,8 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 Thieves’ Cant
 During your rogue training you learned thieves’ cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages,
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 39
+
+
 +5 7d6 Roguish Archetype feature
 +6 9d6 Roguish Archetype feature
  +6 10d6 Ability Score Improvement
@@ -1591,7 +1616,8 @@ Thief
 You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn’t employ.
 Fast Hands
 Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity
-           Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 40
+
+
 
 (Sleight of Hand) check, use your thieves’ tools to disarm a trap or open a lock, or take the Use an Object action.
 Second-Story Work
@@ -1603,8 +1629,7 @@ Use Magic Device
 By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items.
 Thief’s Reflexes
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can’t use this feature when you are surprised.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 41
+
 
                     Sorcerer Class Features
 As a sorcerer, you gain the following class features.
@@ -1694,8 +1719,7 @@ Improvement 17 Metamagic
 18 Sorcerous Origin feature
 19 Ability Score Improvement
 20 Sorcerous Restoration
-   Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 42
+
 
 Spellcasting
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.
@@ -1732,7 +1756,8 @@ Sorcery Point Cost 2
 5
 6
 7
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 43
+
+
 Converting a Spell Slot to Sorcery Points. As a bonus action on your turn, you can expend one spell
 
 slot and gain a number of sorcery points equal to the slot’s level.
@@ -1773,8 +1798,7 @@ Draconic Ancestry
 Black
 Damage Type
 Acid
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 44
+
 
 Blue Lightning its turn in this aura must succeed on a Wisdom
 Brass Fire
@@ -1797,8 +1821,7 @@ You can’t manifest your wings while wearing armor unless the armor is made to 
 Draconic Presence
 Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts
 saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
-    Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 45
+
 
                              Warlock Class Features
 As a warlock, you gain the following class features.
@@ -1870,7 +1893,8 @@ You know two cantrips of your choice from the warlock spell list. You learn addi
       Otherworldly Patron
 At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice
 grants you features at 1st level and again at 6th, 10th, and 14th level.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 46
+
+
 
 cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 Spell Slots
@@ -1901,7 +1925,8 @@ Pact of the Blade
 You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it. You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 47
+
+
 
 pact weapon if you die, if you perform the 1-­‐‑hour ritual on a different weapon, or if you use a 1-­‐‑hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 Pact of the Tome
@@ -1939,7 +1964,8 @@ Book of Ancient Secrets
 Prerequisite: Pact of the Tome feature
 You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-­‐‑level spells that have the ritual tag from any class’s spell list (the two needn’t be from the same list). The spells appear in the book and don’t count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can’t cast the spells except as rituals, unless you’ve learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.
 On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell’s level is equal to or less than half your warlock level (rounded up) and if you can spare the time to
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 48
+
+
 
 transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 Chains of Carceri
@@ -1990,7 +2016,8 @@ expending a spell slot or material components.
 Repelling Blast
 Prerequisite: eldritch blast cantrip
 When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 49
+
+
 
 Sculptor of Flesh
 Prerequisite: 7th level
@@ -2039,7 +2066,8 @@ blindness/deafness, scorching ray
 fireball, stinking cloud
 fire shield, wall of fire
 flame strike, hallow
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 50
+
+
 Dark One’s Blessing
 Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1).
 Dark One’s Own Luck
@@ -2058,8 +2086,7 @@ Each Pact Boon option produces a special creature or an object that reflects you
 Pact of the Chain. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with imps and quasits tied to the Fiend.
 Pact of the Blade. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames.
 Pact of the Tome. Your Book of Shadows could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend.
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 51
+
 
        Wizard Class Features
 As a wizard, you gain the following class features.
@@ -2146,7 +2173,8 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 shown in the Cantrips Known column of the Wizard table.
 Spellbook
 At 1st level, you have a spellbook containing six 1st-­‐‑ level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 52
+
+
 1 ̶ 3 3 2 1 1 11
 1 ̶
 
@@ -2176,7 +2204,8 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Spell Mastery
 At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-­‐‑level wizard spell and a 2nd-­‐‑level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 53
+
+
 
 Signature Spells
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-­‐‑level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don’t count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest.
@@ -2203,14 +2232,14 @@ The spells that you add to your spellbook as you gain levels reflect the arcane 
 Copying a Spell into the Book. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
 Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
 For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 54
+
 
 expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 Replacing the Book. You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 The Book’s Appearance. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 55
+
+
 
   Beyond 1st Level
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called gaining a level.
@@ -2269,8 +2298,7 @@ Intelligence 13
 +2 +2 +2 +2
       85,000 100,000 120,000 140,000 165,000
 +4 +4 +5 +5 +5
-    Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 56
+
 
  Experience Points
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric.
@@ -2314,7 +2342,8 @@ If you already have the Unarmored Defense feature, you can’t gain it again fro
 Spellcasting
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass
   Fighter Light armor, medium armor, shields, simple weapons, martial weapons
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 57
+
+
 Paladin Light armor, medium armor, shields, simple weapons, martial weapons
 
 but have the Spellcasting feature from only one class, you follow the rules as described in that class.
@@ -2338,7 +2367,8 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 Lawful good (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
 Neutral good (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
 Chaotic good (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 58
+
+
 2nd 3 —
 3rd 4 2
 4th 4 3
@@ -2422,7 +2452,8 @@ Devils
 Elementals
 Fey creatures
 Underworld traders
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 59
+
+
 Inspiration
 Inspiration is a rule the game master can use to reward you for playing your character in a way
 that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond
@@ -2452,7 +2483,8 @@ Customizing a Background
 You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in the equipment section. (If you spend coin, you can’t also take the equipment package suggested for your class.) Finally, choose two personality traits, one ideal, one bond, and one flaw. If you can’t find a feature that matches your desired background, work with your GM to create one.
 Acolyte
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 60
+
+
 
 Choose a god, a pantheon of gods, or some other 3
 quasi-­‐‑divine being from among those listed in "Fantasy-­‐‑Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
@@ -2493,7 +2525,8 @@ d6 Flaw
 3
 4 I am inflexible in my thinking. 5
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 61
+
+
 I see omens in every event and action. The gods try to speak to us, we just need to listen
  I quote (or misquote) sacred texts and proverbs in almost every situation.
  I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me.
@@ -2537,7 +2570,8 @@ Platinum (pp)
 100 10 1,000 100
       Selling Treasure
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 62
+
+
 
 Heavy Armor. Heavier armor interferes with the wearer’s ability to move quickly, stealthily, and freely. If the Armor table shows “Str 13” or “Str 15” in the Strength column for an armor type, the armor reduces the wearer’s speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 Stealth. If the Armor table shows “Disadvantage” in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
@@ -2570,7 +2604,8 @@ Plate. Plate consists of shaped, interlocking metal plates to cover the entire b
 — Disadvantage
 Weight
 8 lb.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 63
+
+
 
 Leather
 Studded leather
@@ -2663,7 +2698,8 @@ Your class grants proficiency in certain weapons, reflecting both the class’s 
 The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A melee weapon is used to attack a target within 5 feet of you, whereas a ranged weapon is used to attack a target at a distance.
 Weapon Proficiency
 Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 64
+
+
 
 Heavy. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
@@ -2690,7 +2726,8 @@ lance to attack a target within 5 feet of you. Also, a lance requires two hands 
 Net. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 Properties
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 65
+
+
 
 Club
 Dagger
@@ -2876,7 +2913,8 @@ Arcane Focus. An arcane focus is a special item— an orb, a crystal, a rod, a s
 This section describes items that have special rules or require further explanation.
 Acid. As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 Alchemist’s Fire. This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 66
+
+
 
 sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 Ball Bearings. As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
@@ -2898,7 +2936,8 @@ Holy Symbol. A holy symbol is a representation of a god or pantheon. It might be
 Holy Water. As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-­‐‑level spell slot.
 Hunting Trap. When you use your action to set it, this trap forms a saw-­‐‑toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 67
+
+
 
 Lamp. A lamp casts bright light in a 15-­‐‑foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
 Lantern, Bullseye. A bullseye lantern casts bright light in a 60-­‐‑foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
@@ -2922,7 +2961,8 @@ Tent. A simple and portable canvas shelter, a tent sleeps two.
 Tinderbox. This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
 Torch. A torch burns for 1 hour, providing bright light in a 20-­‐‑foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 Adventuring Gear
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 68
+
+
 
                                                                                                           Item Cost
 Weight
@@ -3119,8 +3159,7 @@ Capacity
    Crossbow
 bolts (20)
  1 gp 11⁄2 lb.
-                   Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 69
+
 1 cubic foot/30 pounds of gear
 40 gallons liquid, 4 cubic feet solid 2 cubic feet/40 pounds of gear
 11⁄2 pints liquid
@@ -3231,7 +3270,8 @@ Poisoner’s kit
 Thieves’ tools
 Vehicles (land or water)
 * See the “Mounts and Vehicles” section.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 70
+
+
 Artisan’s Tools. These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.
 
 Disguise Kit. This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
@@ -3269,7 +3309,8 @@ Capacity
 480 lb.
 420 lb.
 1,320 lb.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 71
+
+
 
 Horse, draft
 Horse, riding
@@ -3400,8 +3441,7 @@ Squalid
 Price/Day
 —
 1 sp
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 72
+
 
 Poor
 Modest
@@ -3433,8 +3473,7 @@ Mug
 Cost
 2 sp
 4 cp
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 73
+
 
 Banquet (per person)
 Bread, loaf
@@ -3499,8 +3538,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 Spellcasting Services
 People who are able to cast spells don’t fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 Hiring someone to cast a relatively common spell of 1st or 2nd level, such as cure wounds or identify, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-­‐‑level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-­‐‑infested wilderness to deliver something important to a distant settlement.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 74
+
 
 Feats
 A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
@@ -3511,8 +3549,7 @@ Prerequisite: Strength 13 or higher
 You’ve developed the skills necessary to hold your own in close-­‐‑quarters grappling. You gain the following benefits:
 • You have advantage on attack rolls against a creature you are grappling.
 • You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 75
+
 
  Using Ability Scores
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
@@ -3553,7 +3590,8 @@ If multiple situations affect a roll and each one grants advantage or imposes di
 If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
 When you have advantage or disadvantage and something in the game, such as the halfling’s Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
 You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The
-       Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 76
+
+
 
 GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 Proficiency Bonus
@@ -3575,7 +3613,8 @@ Both participants in a contest make ability checks appropriate to their efforts.
 If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
 Skills
 Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an
-     Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 77
+
+
 
 ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. (A character’s starting skill proficiencies are determined at character creation, and a monster’s skill proficiencies appear in the monster’s stat block.)
 For example, a Dexterity check might reflect a character’s attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth
@@ -3613,7 +3652,8 @@ Charisma
 related shown
 the later to use a
  Sometimes, the GM might ask for an ability check using a specific skill—for example, “Make a Wisdom (Perception) check.” At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 78
+
+
 
 For example, if a 1st-­‐‑level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 The rules on hiding in the “Dexterity” section below rely on passive checks, as do the exploration rules.
@@ -3645,7 +3685,8 @@ You add your Strength modifier to your attack roll and your damage roll when att
 Lifting and Carrying
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 Carrying Capacity. Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 79
+
+
 
 that most characters don’t usually have to worry about it.
 Push, Drag, or Lift. You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
@@ -3681,8 +3722,7 @@ The GM decides when circumstances are appropriate for hiding. When you try to hi
 You can’t hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase.
 An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet. In combat, most creatures stay alert for signs of danger all
 around, so if you come out of hiding and approach a
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 80
+
 
 creature, it usually sees you. However, under certain circumstances, the GM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
 Passive Perception. When you hide, there’s a chance someone will notice you even if they aren’t searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
@@ -3714,7 +3754,8 @@ Other Intelligence Checks. The GM might call for an Intelligence check when you 
 • Pull together a disguise to pass as a city guard
 • Forge a document
 • Recall lore about a craft or trade • Win a game of skill
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 81
+
+
 
 Spellcasting Ability
 Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
@@ -3740,7 +3781,8 @@ Deception. Your Charisma (Deception) check determines whether you can convincing
 Intimidation. When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 Performance. Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
 Persuasion. When you attempt to influence someone or a group of people with tact, social graces, or good nature, the GM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 82
+
+
 
 convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
 Other Charisma Checks. The GM might call for a Charisma check when you try to accomplish tasks like the following:
@@ -3755,8 +3797,7 @@ A saving throw can be modified by a situational bonus or penalty and can be affe
 Each class gives proficiency in at least two saving throws. The wizard, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
 The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a spell is determined by the caster’s spellcasting ability and proficiency bonus.
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 83
+
 
 Time
 In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In a dungeon environment, the adventurers’ movement happens on a scale of minutes. It takes them about a minute to creep down a long hallway, another
@@ -3786,8 +3827,7 @@ Minute Hour
 300 3 feet miles
 Day Effect
 24 — miles
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 84
+
 Fast 400 4 30 −5 penalty to passive feet miles miles Wisdom (Perception)
 scores
 Slow 200 2 18 Able to use stealth feet miles miles
@@ -3807,8 +3847,7 @@ When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrob
 High Jump. When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances,
 your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 11⁄2 times your height.
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 85
+
 
 The Environment
 By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places.
@@ -3837,7 +3876,8 @@ Food and Water
 Characters who don’t eat or drink suffer the effects of exhaustion (see appendix PH-­‐‑A). Exhaustion caused by lack of food or water can’t be removed until the character eats and drinks the full required amount.
 Food
 A character needs one pound of food per day and can make food last longer by subsisting on half rations.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 86
+
+
 
 Eating half a pound of food in a day counts as half a day without food.
 A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion.
@@ -3860,8 +3900,7 @@ Long Rest
 A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
 At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 A character can’t benefit from more than one long rest in a 24-­‐‑hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
-   Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 87
+
 
 Between Adventures
 Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard-­‐‑earned gold.
@@ -3887,7 +3926,8 @@ You can use downtime between adventures to recover from a debilitating injury, d
 After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw. On a successful save, you can choose one of the following results:
 • End one effect on you that prevents you from regaining hit points.
 • For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 88
+
+
 
 Researching
 The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
@@ -3897,8 +3937,7 @@ Training
 You can spend time between adventures learning a new language or training with a set of tools. Your GM might allow additional training options.
 First, you must find an instructor willing to teach you. The GM determines how long it takes, and whether one or more ability checks are required.
 The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 89
+
 
 The Order of Combat
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A round represents about 6 seconds in the game world. During a round, each participant in a battle takes a turn. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
@@ -3925,7 +3964,8 @@ You choose when to take a bonus action during your turn, unless the bonus action
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn’t notice a threat is surprised at the start of the encounter.
 If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends. A member of a group can be surprised even if the other members aren’t.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 90
+
+
 
 specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
 Other Activity on Your Turn
@@ -3958,7 +3998,8 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 Being Prone
 Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix PH-­‐‑A.
 You can drop prone without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 91
+
+
 
 For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can’t stand up if you don’t have enough movement left or if your speed is 0.
 To move while prone, you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
@@ -4014,7 +4055,8 @@ Whether a creature is a friend or an enemy, you can’t willingly end your move 
 If you leave a hostile creature’s reach during your move, you provoke an opportunity attack.
 Flying Movement
 Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 92
+
+
 
 Actions in Combat
 When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
@@ -4042,7 +4084,8 @@ Sometimes you want to get the jump on a foe or wait for a particular circumstanc
 First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include “If the cultist steps on the trapdoor, I’ll pull the lever that opens it,” and “If the goblin steps next to me, I move away.”
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and
-        Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 93
+
+
 
 holding onto the spell’s magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your concentration might be broken.
 Search
@@ -4071,7 +4114,8 @@ Unseen Attackers and Targets
 Combatants often try to escape their foes’ notice by hiding, casting the invisibility spell, or lurking in darkness.
 When you attack a target that you can’t see, you have disadvantage on the attack roll. This is true whether you’re guessing the target’s location or you’re targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target’s location correctly.
 When a creature can’t see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 94
+
+
 
 Ranged Attacks
 When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
@@ -4096,7 +4140,8 @@ Grappling
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-­‐‑A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 Escaping a Grapple. A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 95
+
+
 
 Moving a Grappled Creature. When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 Shoving a Creature
@@ -4122,7 +4167,8 @@ Critical Hits
 When you score a critical hit, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them
   Contests in Combat
 Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 96
+
+
 
 together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
 For example, if you score a critical hit with a dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue’s Sneak Attack feature, you roll those dice twice as well.
@@ -4155,7 +4201,8 @@ this number are lost. For example, a druid grants a ranger 8 hit points of heali
 A creature that has died can’t regain hit points until magic such as the revivify spell has restored it to life.
 Dropping to 0 Hit Points
 When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 97
+
+
 
 Instant Death
 Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
@@ -4183,7 +4230,8 @@ When you have temporary hit points and take damage, the temporary hit points are
 Because temporary hit points are separate from your actual hit points, they can exceed your hit point maximum. A character can, therefore, be at full hit points and receive temporary hit points.
 Healing can’t restore temporary hit points, and they can’t be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a spell grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
 If you have 0 hit points, receiving temporary hit points doesn’t restore you to consciousness or stabilize you. They can still absorb damage directed
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 98
+
+
 
 at you while you’re in that state, but only true healing can save you.
 Unless a feature that grants you temporary hit points has a duration, they last until they’re depleted or you finish a long rest.
@@ -4205,8 +4253,7 @@ When adventurers pursue sahuagin back to their undersea homes, fight off sharks 
 When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident.
 A ranged weapon attack automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
 Creatures and objects that are fully immersed in water have resistance to fire damage.
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 99
+
 
 Spellcasting
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
@@ -4230,8 +4277,7 @@ Some characters and monsters have special abilities that let them cast spells wi
 Casting a Spell at a Higher Level
 When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts magic missile using one of her 2nd-­‐‑level slots, that magic missile is 2nd level. Effectively, the spell expands to fill the slot it is put into.
 Some spells, such as magic missile and cure wounds, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
-     Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 100
+
 Casting in Armor
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
 
@@ -4263,7 +4309,8 @@ Verbal (V)
 Most spells require the chanting of mystic words. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can’t cast a spell with a verbal component.
 Somatic (S)
 Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell
-     Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 101
+
+
 
 requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 Material (M)
@@ -4295,7 +4342,8 @@ If a spell targets a creature of your choice, you can choose yourself, unless th
 Areas of Effect
 Spells such as burning hands and cone of cold cover an area, allowing them to affect multiple creatures at once.
 A spell’s description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a point of origin, a location from which the spell’s energy erupts. The rules for each shape
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 102
+
+
 
 specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
 A spell’s effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn’t included in the spell’s area. To block one of these imaginary lines, an obstruction must provide total cover.
@@ -4332,8 +4380,7 @@ Divination spells reveal information, whether in the form of secrets long forgot
 Enchantment spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
 Evocation spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
 Illusion spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 103
+
 
 images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature. Necromancy spells manipulate the energies of life and
 death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
@@ -4342,8 +4389,7 @@ Transmutation spells change the properties of a creature, object, or environment
   Combining Magical Effects
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
 For example, if two clerics cast bless on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 104
+
 
 Spell Lists Bard Spells
 Cantrips (0 Level)
@@ -4386,7 +4432,8 @@ Scrying
 Seeming Teleportation Circle
 6th Level
 Eyebite
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 105
+
+
 
 Find the Path
 Guards and Wards Irresistible Dance Mass Suggestion Programmed Illusion True Seeing
@@ -4443,7 +4490,8 @@ Banishment
 Control Water
 Death Ward Divination
 Freedom of Movement Guardian of Faith
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 106
+
+
 
 Locate Creature Stone Shape
 5th Level
@@ -4494,7 +4542,8 @@ Pass without Trace Protection from Poison Spike Growth
 3rd Level
 Call Lightning Conjure Animals Daylight
 Dispel Magic
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 107
+
+
 
 Meld into Stone
 Plant Growth Protection from Energy Sleet Storm
@@ -4556,7 +4605,8 @@ Create Food and Water Daylight
 Dispel Magic
 Magic Circle
 Remove Curse Revivify
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 108
+
+
 
 4th Level
 Banishment Death Ward Locate Creature
@@ -4613,7 +4663,8 @@ Sleep Thunderwave
 Alter Self Blindness/Deafness Blur
 Darkness Darkvision
 Detect Thoughts Enhance Ability Enlarge/Reduce Gust of Wind
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 109
+
+
 
 Hold Person Invisibility Knock Levitate Mirror Image Misty Step Scorching Ray See Invisibility Shatter
 Spider Climb Suggestion Web
@@ -4662,7 +4713,8 @@ Wish
 Warlock Spells
 Cantrips (0 Level)
 Chill Touch Eldritch Blast Mage Hand Minor Illusion Poison Spray Prestidigitation True Strike
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 110
+
+
 
 1st Level
 Charm Person
@@ -4715,7 +4767,8 @@ Disguise Self Expeditious Retreat False Life
 Feather Fall
 Find Familiar
 Floating Disk
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 111
+
+
 
 Fog Cloud
 Grease
@@ -4769,7 +4822,8 @@ Locate Creature Phantasmal Killer Polymorph Private Sanctum Resilient Sphere Sec
 Wall of Fire
 5th Level
 Animate Objects
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 112
+
+
 
 Arcane Hand Cloudkill
 Cone of Cold Conjure Elemental Contact Other Plane Creation
@@ -4803,8 +4857,7 @@ Astral Projection Foresight
 Gate Imprisonment Meteor Swarm Power Word Kill Prismatic Wall Shapechange Time Stop
 True Polymorph Weird
 Wish
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 113
+
 
 Spell Descriptions Acid Arrow
 2nd-­‐‑level evocation
@@ -4845,7 +4898,8 @@ Duration: Concentration, up to 1 hour
 You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 Aquatic Adaptation. You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
 Change Appearance. You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can’t appear as a creature of a different size than you, and your basic shape stays the same; if you’re bipedal, you can’t use this spell to become quadrupedal, for instance. At any
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 114
+
+
 
 time for the duration of the spell, you can use your action to change your appearance in this way again. Natural Weapons. You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
 Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
@@ -4882,7 +4936,8 @@ Range: 10 feet
 Components: V, S, M (a drop of blood, a piece of
 flesh, and a pinch of bone dust) Duration: Instantaneous
 This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 115
+
+
 
 a zombie if you chose a corpse (the GM has the creature’s game statistics).
 On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
@@ -4904,7 +4959,8 @@ Attack Str Dex
 Tiny 20 Small 25 Medium 40 Large 50 10
 Huge 80 10
 18 16 13
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 116
+
+
 +6tohit,2d10+2 damage
 14 10 18 6
 +8 to hit, 2d12 + 4 damage
@@ -4947,7 +5003,8 @@ honey for the sympathy effect) Duration: 10 days
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-­‐‑foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura’s effect.
 Antipathy. The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become frightened. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can’t see the target. If the creature moves more than 60 feet from the target and can’t see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.
 Sympathy. The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 117
+
+
 
 When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can’t willingly move away from the target.
 If the target damages or otherwise harms an affected creature, the affected creature can make a Wisdom saving throw to end the effect, as described below.
@@ -4980,7 +5037,8 @@ At Higher Levels. When you cast this spell using a spell slot of 6th level or hi
 Arcane Lock
 2nd-­‐‑level abjuration
 Casting Time: 1 action
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 118
+
+
 
 Range: Touch
 Components: V, S, M (gold dust worth at least 25 gp,
@@ -5016,7 +5074,8 @@ Duration: Special
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn’t need food or air and doesn’t age.
 Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does—your soul and body are separated, killing you instantly.
 Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-­‐‑enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 119
+
+
 
 that apply to it have no effect on your physical body, nor do they persist when you return to it.
 The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
@@ -5059,7 +5118,8 @@ Components: V, S, M (an item distasteful to the
 target)
 Duration: Concentration, up to 1 minute
 You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 120
+
+
 
 If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 If the target is native to a different plane of existence than the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.
@@ -5100,7 +5160,8 @@ giant octopus or a giant squid) Duration: Concentration, up to 1 minute
 Squirming, ebony tentacles fill a 20-­‐‑foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.
 A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 121
+
+
 
 Blade Barrier
 6th-­‐‑level evocation
@@ -5134,7 +5195,8 @@ Blink
 Casting Time: 1 action Range: Self Components: V, S Duration: 1 minute
 Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.
 While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can’t see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 122
+
+
 
 Creatures that aren’t there can’t perceive you or interact with you, unless they have the ability to do so.
 Blur
@@ -5179,7 +5241,8 @@ Duration: Concentration, up to 1 minute
 You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-­‐‑foot-­‐‑radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 123
+
+
 
 of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
 Chain Lightning
@@ -5222,7 +5285,8 @@ seeing)
 Duration: Concentration, up to 10 minutes
 You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 124
+
+
 
 A creature that can see the sensor (such as a creature benefiting from see invisibility or truesight) sees a luminous, intangible orb about the size of your fist.
 Clone
@@ -5259,7 +5323,8 @@ Command
 Casting Time: 1 action Range: 60 feet Components: V Duration: 1 round
 You speak a one-­‐‑word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it.
 Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 125
+
+
 
 the target behaves. If the target can’t follow your command, the spell ends.
 Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
@@ -5304,7 +5369,8 @@ Range: 30 feet
 Components: V, S
 Duration: Concentration, up to 1 minute
 Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 126
+
+
 
 you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect.
 A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
@@ -5350,7 +5416,8 @@ Components: V, S
 Duration: Concentration, up to 1 hour
 1 The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn’t take an action this turn.
  7–8 The creature uses its action to make a melee attack against a randomly determined creature
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 127
+
+
 within its reach. If there is no creature within its reach, the creature does nothing this turn.
 
 You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.
@@ -5392,7 +5459,8 @@ You summon elementals that appear in unoccupied spaces that you can see within r
 • Four elementals of challenge rating 1/2 or lower • Eight elementals of challenge rating 1/4 or lower.
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 128
+
+
 
 (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 The GM has the creatures’ statistics.
@@ -5431,7 +5499,8 @@ Blinding Sickness. Pain grips the creature’s mind, and its eyes turn milky whi
 Filth Fever. A raging fever sweeps through the creature’s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
 Flesh Rot. The creature’s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 Mindfire. The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 129
+
+
 
 creature behaves as if under the effects of the confusion spell during combat.
 Seizure. The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
@@ -5468,7 +5537,8 @@ The water level remains elevated until the spell ends or you choose a different 
 Part Water. You cause water in the area to move apart and create a trench. The trench extends across the spell’s area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect. The water then slowly fills in the trench over the course of the next round until the normal water level is restored.
 Redirect Flow. You cause flowing water in the area to move in a direction you choose, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell’s area, it resumes its flow based on the terrain conditions. The water continues to move in the direction you chose until the spell ends or you choose a different effect.
 Whirlpool. This effect requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 130
+
+
 
 base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your spell save DC.
 When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn’t caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
@@ -5517,7 +5587,8 @@ Create Food and Water
 Casting Time: 1 action Range: 30 feet Components: V, S Duration: Instantaneous
 You create 45 pounds of food and 30 gallons of
 water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn’t go bad.
-         Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 131
+
+
 
 Create or Destroy Water
 1st-­‐‑level transmutation
@@ -5562,7 +5633,8 @@ Duration
 1 hour
 10 minutes
 1 minute
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 132
+
+
 Using any material created by this spell as another spell’s material component causes that spell to fail.
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 Cure Wounds
@@ -5610,7 +5682,8 @@ If the spell is still in effect when the target is subjected to an effect that w
 Delayed Blast Fireball
 7th-­‐‑level evocation
 Casting Time: 1 action
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 133
+
+
 
 Range: 150 feet
 Components: V, S, M (a tiny ball of bat guano and
@@ -5651,7 +5724,8 @@ Range: Self
 Components: V, S, M (a yew leaf) Duration: Concentration, up to 10 minutes
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 134
+
+
 
 Detect Thoughts
 2nd-­‐‑level divination
@@ -5679,7 +5753,8 @@ To discern that you are disguised, a creature can use its action to inspect your
 Disintegrate
 6th-­‐‑level transmutation
 Casting Time: 1 action Range: 60 feet
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 135
+
+
 
 Components: V, S, M (a lodestone and a pinch of dust)
 Duration: Instantaneous
@@ -5719,7 +5794,8 @@ Divine Favor
 1st-­‐‑level evocation
 Casting Time: 1 bonus action Range: Self
 Components: V, S
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 136
+
+
 
 Duration: Concentration, up to 1 minute
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
@@ -5758,7 +5834,8 @@ You attempt to beguile a creature that you can see within range. It must succeed
 While the creature is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 137
+
+
 
 At Higher Levels. When you cast this spell with a 9th-­‐‑level spell slot, the duration is concentration, up to 8 hours.
 Dominate Person
@@ -5791,7 +5868,8 @@ Duration: Instantaneous
 Whispering to the spirits of nature, you create one of the following effects within range:
 • You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
 • You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 138
+
+
 
 • You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-­‐‑foot cube.
 • You instantly light or snuff out a candle, a torch, or a small campfire.
@@ -5831,7 +5909,8 @@ Eagle’s Splendor. The target has advantage on Charisma checks.
 Fox’s Cunning. The target has advantage on Intelligence checks.
 Owl’s Wisdom. The target has advantage on Wisdom checks.
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 139
+
+
 
 Enlarge/Reduce
 2nd-­‐‑level transmutation
@@ -5862,7 +5941,8 @@ Casting Time: 1 action Range: Self Components: V, S Duration: Up to 8 hours
 You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can’t see anything more than 60 feet away.
 While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren’t on the Ethereal Plane can’t perceive you and can’t interact with you, unless a special ability or magic has given them the ability to do so.
 You ignore all objects and effects that aren’t on the Ethereal Plane, allowing you to move through objects you perceive on the plane you originated from.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 140
+
+
 
 When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.
 This spell has no effect if you cast it while you are on the Ethereal Plane or a plane that doesn’t border it, such as one of the Outer Planes.
@@ -5899,7 +5979,8 @@ Components: V
 Duration: Concentration, up to 1 minute
 Each object in a 20-­‐‑foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-­‐‑foot radius.
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can’t benefit from being invisible.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 141
+
+
 
 Faithful Hound
 4th-­‐‑level conjuration
@@ -5946,7 +6027,8 @@ You blast the mind of a creature that you can see within range, attempting to sh
 On a failed save, the creature’s Intelligence and Charisma scores become 1. The creature can’t cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 The spell can also be ended by greater restoration, heal, or wish.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 142
+
+
 
 Find Familiar
 1st-­‐‑level conjuration (ritual)
@@ -5979,7 +6061,8 @@ such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an
 Duration: Concentration, up to 1 day
 This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn’t specific (such as “a green dragon’s lair”), the spell fails.
 For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 143
+
+
 
 traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.
 Find Traps
@@ -6020,7 +6103,8 @@ Duration: 10 minutes
 Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-­‐‑foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it.
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 144
+
+
 
 Fire Storm
 7th-­‐‑level evocation
@@ -6063,7 +6147,8 @@ earth)
 Duration: Concentration, up to 1 minute
 You attempt to turn one creature that you can see within range into stone. If the target’s body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn’t affected.
 A creature restrained by this spell must make another Constitution saving throw at the end of each
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 145
+
+
 
 of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind.
 If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.
@@ -6102,7 +6187,8 @@ You create a ward against magical travel that protects up to 40,000 square feet 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell’s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or necrotic damage (your choice when you cast this spell).
 When you cast this spell, you can designate a password. A creature that speaks the password as it enters the area takes no damage from the spell.
 The spell’s area can’t overlap with the area of another forbiddance spell. If you cast forbiddance every day for 30 days in the same location, the spell lasts until it is dispelled, and the material components are consumed on the last casting.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 146
+
+
 
 Forcecage
 7th-­‐‑level evocation
@@ -6137,7 +6223,8 @@ Components: V, S, M (a small crystal sphere) Duration: Instantaneous
 A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-­‐‑foot-­‐‑radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 If the globe strikes a body of water or a liquid that is principally water (not including water-­‐‑based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.
 You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling’s normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn’t already shattered, it explodes.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 147
+
+
 
 At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 Gaseous Form
@@ -6175,7 +6262,8 @@ Casting Time: 1 action
 Range: Touch
 Components: V, S, M (a pinch of salt and one copper
 piece placed on each of the corpse’s eyes, which must remain there for the duration)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 148
+
+
 
 Duration: 10 days
 You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become undead.
@@ -6213,7 +6301,8 @@ Duration: Until dispelled or triggered
 When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
 You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 149
+
+
 
 You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don’t trigger the glyph, such as those who say a certain password.
 When you inscribe the glyph, choose explosive runes or a spell glyph.
@@ -6257,7 +6346,8 @@ maximum
 Guardian of Faith
 4th-­‐‑level conjuration
 Casting Time: 1 action Range: 30 feet Components: V
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 150
+
+
 
 Duration: 8 hours
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
@@ -6295,7 +6385,8 @@ Guiding Bolt
 1st-­‐‑level evocation
 Casting Time: 1 action Range: 120 feet Components: V, S Duration: 1 round
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 151
+
+
 
 against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
@@ -6334,7 +6425,8 @@ Range: 300 feet
 Components: V, S, M (a stone, a twig, and a bit of
 green plant) Duration: 24 hours
 You make natural terrain in a 150-­‐‑foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 152
+
+
 
 difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-­‐‑strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
@@ -6368,7 +6460,8 @@ Range: 60 feet
 Components: V, S, M (a piece of iron and a flame) Duration: Concentration, up to 1 minute
 Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-­‐‑hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 153
+
+
 
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 Hellish Rebuke
@@ -6417,7 +6510,8 @@ Hold Person
 Casting Time: 1 action
 Range: 60 feet
 Components: V, S, M (a small, straight piece of iron) Duration: Concentration, up to 1 minute
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 154
+
+
 
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
@@ -6461,7 +6555,8 @@ Casting Time: 1 minute
 Range: Touch
 Components: V, S, M (a pearl worth at least 100 gp
 and an owl feather) Duration: Instantaneous
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 155
+
+
 
 You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-­‐‑imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
@@ -6495,7 +6590,8 @@ Minimus Containment. The target shrinks to a height of 1 inch and is imprisoned 
 The special component for this version of the spell is a large, transparent gemstone, such as a corundum, diamond, or ruby.
 Slumber. The target falls asleep and can’t be awoken. The special component for this version of the spell consists of rare soporific herbs.
 Ending the Spell. During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the GM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature’s name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 156
+
+
 
 A dispel magic spell can end the spell only if it is cast as a 9th-­‐‑level spell, targeting either the prison or the special component used to create it.
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
@@ -6539,7 +6635,8 @@ Components: V, S, M (an eyelash encased in gum
 arabic)
 Duration: Concentration, up to 1 hour
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 157
+
+
 
 person. The spell ends for a target that attacks or casts a spell.
 At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
@@ -6580,7 +6677,8 @@ You touch a creature and can end either one disease or one condition afflicting 
 Levitate
 2nd-­‐‑level transmutation
 Casting Time: 1 action Range: 60 feet
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 158
+
+
 
 Components: V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
 Duration: Concentration, up to 10 minutes
@@ -6627,7 +6725,8 @@ Locate Object
 Casting Time: 1 action
 Range: Self
 Components: V, S, M (a forked twig) Duration: Concentration, up to 10 minutes
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 159
+
+
 
 Describe or name an object that is familiar to you. You sense the direction to the object’s location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
@@ -6673,7 +6772,8 @@ Components: V, S, M (a gem, crystal, reliquary, or
 some other ornamental container worth at least
 500 gp)
 Duration: Until dispelled
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 160
+
+
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell’s material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container’s space. You can’t move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
 You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a protection from evil and good or magic circle spell can’t be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target’s body, and the target’s soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 hours.
@@ -6704,7 +6804,8 @@ Casting Time: 1 bonus action
 Range: Touch
 Components: V, S
 Duration: Concentration, up to 1 hour
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 161
+
+
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
@@ -6732,7 +6833,8 @@ Mass Cure Wounds
 Casting Time: 1 action Range: 60 feet Components: V, S Duration: Instantaneous
 A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-­‐‑foot-­‐‑radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 162
+
+
 
 Mass Heal
 9th-­‐‑level evocation
@@ -6771,7 +6873,8 @@ Meld into Stone
 Casting Time: 1 action Range: Touch Components: V, S Duration: 8 hours
 You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
 While merged with the stone, you can’t see what occurs outside it, and any Wisdom (Perception)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 163
+
+
 
 checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. You otherwise can’t move.
 Minor physical damage to the stone doesn’t harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone’s complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.
@@ -6805,7 +6908,8 @@ Range: 30 feet
 Components: S, M (a bit of fleece) Duration: 1 minute
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 164
+
+
 
 If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-­‐‑foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
@@ -6838,7 +6942,8 @@ Misty Step
 Casting Time: 1 bonus action Range: Self
 Components: V
 Duration: Instantaneous
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 165
+
+
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 Modify Memory
@@ -6877,7 +6982,8 @@ containing a mixture of soils—clay, loam, and
 sand)
 Duration: Concentration, up to 2 hours
 Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area’s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can’t exceed half the area’s largest dimension. So, if you affect a 40-­‐‑foot square, you can create a pillar up to 20 feet high, raise or lower the square’s elevation by up to 20 feet, dig a trench up to 20 feet deep, and so
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 166
+
+
 
 on. It takes 10 minutes for these changes to complete.
 At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect.
@@ -6919,7 +7025,8 @@ Phantom Steed
 Casting Time: 1 minute Range: 30 feet Components: V, S Duration: 1 hour
 A Large quasi-­‐‑real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature’s appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.
 For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a riding horse, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 167
+
+
 
 pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.
 Planar Ally
@@ -6948,7 +7055,8 @@ Casting Time: 1 action
 Range: Touch
 Components: V, S, M (a forked, metal rod worth at
 least 250 gp, attuned to a particular plane of existence)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 168
+
+
 
 Duration: Instantaneous
 You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the GM’s discretion.
@@ -6981,7 +7089,8 @@ The transformation lasts for the duration, or until the target drops to 0 hit po
 The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious.
 The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech.
 The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 169
+
+
 
 Power Word Kill
 9th-­‐‑level enchantment
@@ -7018,7 +7127,8 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 4. Green. The target takes 10d6 poison damage on a failed save, or half as much damage on a successful one.
 5. Blue. The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.
 6. Indigo. On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 170
+
+
 
 7. Violet. On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM’s choosing and is no longer blinded. (Typically, a creature that is on a plane that isn’t its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
 8. Special. The target is struck by two rays. Roll twice more, rerolling any 8.
@@ -7045,7 +7155,8 @@ Range: 120 feet
 Components: V, S, M (a thin sheet of lead, a piece of
 opaque glass, a wad of cotton or cloth, and
 powdered chrysolite) Duration: 24 hours
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 171
+
+
 
 You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
@@ -7080,7 +7191,8 @@ Range: 500 miles
 Components: V, S, M (a small replica of you made
 from materials worth at least 5 gp) Duration: Concentration, up to 1 day
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the spell ends.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 172
+
+
 
 You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
 You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
@@ -7120,7 +7232,8 @@ You return a dead creature you touch to life, provided that it has been dead no 
 This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn’t, however, remove magical diseases, curses, or similar effects; if these aren’t first removed prior to casting the spell, they take effect when the creature returns to life. The spell can’t return an undead creature to life.
 This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 173
+
+
 
 Ray of Enfeeblement
 2nd-­‐‑level necromancy
@@ -7183,7 +7296,8 @@ Halfling, lightfoot
 Halfling, stout
 Human
 Tiefling
-       Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 174
+
+
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 Remove Curse
 3rd-­‐‑level abjuration
@@ -7234,7 +7348,8 @@ Casting Time: 1 action
 Range: Touch
 Components: V, S, M (diamonds worth 300 gp,
 which the spell consumes) Duration: Instantaneous
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 175
+
+
 
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
 Rope Trick
@@ -7290,7 +7405,8 @@ Save Modifier
 −2
 −4
 −10
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 176
+
+
 
 On a successful save, the target isn’t affected, and you can’t use this spell against it again for 24 hours.
 On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.
@@ -7328,7 +7444,8 @@ Components: V, S, M (a short piece of fine copper
 wire)
 Duration: 1 round
 You send a short message of twenty-­‐‑five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 177
+
+
 
 creatures with Intelligence scores of at least 1 to understand the meaning of your message.
 You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn’t arrive.
@@ -7363,7 +7480,8 @@ Casting Time: 1 action
 Range: 60 feet
 Components: V, S, M (a chip of mica) Duration: Instantaneous
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-­‐‑foot-­‐‑radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone,
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 178
+
+
 
 crystal, or metal has disadvantage on this saving throw.
 A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
@@ -7407,7 +7525,8 @@ Range: 60 feet
 Components: V, S, M (a bit of fleece) Duration: Concentration, up to 10 minutes
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-­‐‑foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 179
+
+
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 Simulacrum
@@ -7447,7 +7566,8 @@ Slow
 Casting Time: 1 action
 Range: 120 feet
 Components: V, S, M (a drop of molasses) Duration: Concentration, up to 1 minute
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 180
+
+
 
 You alter time around up to six creatures of your choice in a 40-­‐‑foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 An affected target’s speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn.
@@ -7478,7 +7598,8 @@ You can also turn difficult terrain caused by plant growth (such as thickets and
 Plants might be able to perform other tasks on your behalf, at the GM’s discretion. The spell doesn’t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 This spell can cause the plants created by the entangle spell to release a restrained creature.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 181
+
+
 
 Spider Climb
 2nd-­‐‑level transmutation
@@ -7524,7 +7645,8 @@ cabbage leaves)
 Duration: Concentration, up to 1 minute
 You create a 20-­‐‑foot-­‐‑radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.
 Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don’t need to breathe or are immune to poison automatically succeed on this saving throw.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 182
+
+
 
 A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round.
 Stone Shape
@@ -7562,7 +7684,8 @@ Components: V, M (a snake’s tongue and either a bit
 of honeycomb or a drop of sweet oil) Duration: Concentration, up to 8 hours
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
 The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 183
+
+
 
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t performed.
 If you or any of your companions damage the target, the spell ends.
@@ -7595,7 +7718,8 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature’s physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don’t trigger the glyph, such as those who say a certain password.
 When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-­‐‑foot-­‐‑radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.
 Death. Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 184
+
+
 
 Discord. Each target must make a Constitution saving throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.
 Fear. Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
@@ -7629,7 +7753,8 @@ Teleport
 7th-­‐‑level conjuration
 Casting Time: 1 action Range: 10 feet Components: V Duration: Instantaneous
 This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 185
+
+
 
 within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-­‐‑foot cube, and it can’t be held or carried by an unwilling creature.
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
@@ -7683,7 +7808,8 @@ Permanent — — — 01–100 circle
 On Target. You and your group (or the target object) appear where you want to.
 Off Target. You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 × 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120
 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The GM determines the direction off target randomly by rolling a d8 and designating 1 as
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 186
+
+
 
 one year. You need not use the circle to teleport when you cast the spell in this way.
 Thaumaturgy
@@ -7721,7 +7847,8 @@ Casting Time: 1 action
 Range: Touch
 Components: V, M (a small clay model of a ziggurat) Duration: 1 hour
 This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover,
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 187
+
+
 
 when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 Transport via Plants
@@ -7752,7 +7879,8 @@ The target’s gear melds into the new form. The creature can’t activate, use,
 Object into Creature. You can turn an object into any kind of creature, as long as the creature’s size is no larger than the object’s size and the creature’s challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on each of your turns. You decide what action it takes and how it moves. The GM has the creature’s statistics and resolves all of its actions and movement.
 If the spell becomes permanent, you no longer control the creature. It might remain friendly to you, depending on how you have treated it.
 Creature into Object. If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form. The creature’s statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 188
+
+
 
 True Resurrection
 9th-­‐‑level necromancy
@@ -7800,7 +7928,8 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 Vicious Mockery
 Enchantment cantrip
 Casting Time: 1 action Range: 60 feet Components: V
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 189
+
+
 
 Duration: Instantaneous
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
@@ -7836,7 +7965,8 @@ At Higher Levels. When you cast this spell using a spell slot of 7th level or hi
 Wall of Stone
 5th-­‐‑level evocation
 Casting Time: 1 action
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 190
+
+
 
 Range: 120 feet
 Components: V, S, M (a small block of granite) Duration: Concentration, up to 10 minutes
@@ -7873,7 +8003,8 @@ This spell grants up to ten willing creatures you can see within range the abili
 Water Walk
 3rd-­‐‑level transmutation (ritual)
 Casting Time: 1 action
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 191
+
+
 
 Range: 30 feet
 Components: V, S, M (a piece of cork) Duration: 1 hour
@@ -7914,7 +8045,8 @@ exotic origin)
 Duration: Concentration, up to 1 minute
 A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
 When the wall appears, each creature within its area must make a Strength saving throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 192
+
+
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in gaseous form can’t pass through it.
 Wish
@@ -7939,12 +8071,12 @@ You must designate a sanctuary by casting this spell within a location, such as 
 Zone of Truth
 2nd-­‐‑level enchantment
 Casting Time: 1 action Range: 60 feet Components: V, S Duration: 10 minutes
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 193
+
+
 
 You create a magical zone that guards against deception in a 15-­‐‑foot-­‐‑radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 194
+
 
 Traps
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
@@ -7962,7 +8094,8 @@ In most cases, a trap’s description is clear enough that you can adjudicate wh
 You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap’s presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.
 Foiling traps can be a little more complicated. Consider a trapped treasure chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it’s trapped. Rather than simply open the chest, they prop a shield in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
 Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 195
+
+
 
 Trap Effects
 The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap’s description specifies what happens when it is triggered.
@@ -8015,7 +8148,8 @@ Deadly
 Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
 When a complex trap activates, it rolls initiative. The trap’s description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
 For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap’s turn, the water level rises. After several rounds, the room is completely flooded.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 196
+
+
 
 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-­‐‑foot-­‐‑square section of it, freeing any creature trapped in that section.
 Fire-Breathing Statue
@@ -8042,7 +8176,8 @@ Mechanical trap
 When a creature steps on a hidden pressure plate, poison-­‐‑tipped darts shoot from spring-­‐‑loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
 The tiny holes in the walls are obscured by dust and cobwebs, or cleverly hidden amid bas-­‐‑reliefs, murals, or frescoes that adorn the walls. The DC to spot them is 15. With a successful DC 15 Intelligence (Investigation) check, a character can deduce the presence of the pressure plate from variations in the mortar and stone used to create it, compared to the surrounding floor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Stuffing the holes with cloth or wax prevents the darts contained within from launching.
 The trap activates when more than 20 pounds of weight is placed on the pressure plate, releasing four darts. Each dart makes a ranged attack with a +8
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 197
+
+
 
 bonus against a random target within 10 feet of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don’t hit anything.) A target that is hit takes 2 (1d4) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one.
 Poison Needle
@@ -8063,8 +8198,7 @@ Magic trap
 Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a sphere of annihilation that can’t be controlled or moved. It is otherwise identical to a normal sphere of annihilation.
 Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the sympathy aspect of the antipathy/sympathy spell. A successful dispel magic (DC 18) removes this enchantment.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 198
+
 
 Diseases
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
@@ -8087,12 +8221,12 @@ At the end of each long rest, an infected creature must make a DC 11 Constitutio
 Sight Rot
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature’s vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 199
+
+
 
 of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is blinded until its sight is restored by magic such as lesser restoration or heal.
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 200
+
 
 Madness
 In a typical campaign, characters aren’t driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
@@ -8113,8 +8247,7 @@ d100 Effect (lasts 1d10 minutes)
 81–90 The character is stunned.
 91–100 The character falls unconscious.
 Long-Term Madness
-   Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 201
+
 51–60 The character must use his or her action each round to attack the nearest creature.
  71–75 The character does whatever anyone tells him or her to do that isn’t obviously self-
 destructive.
@@ -8159,8 +8292,7 @@ mannerisms, and name.”
  51–55 “I don’t like the way people judge me all the time.”
  71–80 “I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they’re watching me all the time.”
  86–95 “I can’t take anything seriously. The more serious the situation, the funnier I find it.”
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 202
+
 
 Objects
 When characters need to saw through ropes, shatter a window, or smash a vampire’s coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character’s success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
@@ -8196,8 +8328,7 @@ Resilient
 10 (3d6)
 18 (4d8)
 27 (5d10)
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 203
+
 
 Poisons
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
@@ -8261,7 +8392,8 @@ Price per Dose
 1,200 gp
        Sample Poisons
  Each type of poison has its own debilitating effects.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 204
+
+
 
 Pale Tincture (Ingested). A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can’t be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.
 Purple Worm Poison (Injury). This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
@@ -8269,8 +8401,7 @@ Serpent Venom (Injury). This poison must be harvested from a dead or incapacitat
 Torpor (Ingested). A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.
 Truth Serum (Ingested). A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a zone of truth spell.
 Wyvern Poison (Injury). This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 205
+
 
 Magic Items
 Magic items are gleaned from the hoards of conquered monsters or discovered in long-­‐‑lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.
@@ -8291,7 +8422,8 @@ Paired Items
 Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a boot of striding and springing on one foot and a boot of elvenkind on the other foot gains no benefit from either.
 Activating an Item
 Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. The description of each
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 206
+
+
 
 item category or individual item details how an item is activated. Certain items use the following rules for their activation.
 If an item requires an action to activate, that action isn’t a function of the Use an Item action, so a feature such as the rogue’s Fast Hands can’t be used to activate the item.
@@ -8322,7 +8454,8 @@ While wearing this amulet, you are hidden from divination magic. You can’t be 
 Amulet of the Planes
 Wondrous item, very rare (requires attunement)
 While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the plane shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 207
+
+
 
 Animated Shield
 Armor (shield), very rare (requires attunement)
@@ -8354,7 +8487,8 @@ The claws retract.
 The apparatus walks or swims backward.
 The light turns off.
 The rear hatch closes and seals.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 208
+
+
 allowing the apparatus reducing the apparatus’s to walk and swim. speed to 0 and making it
 unable to benefit from bonuses to speed.
 3 Side window shutters Side window shutters open (two per side). close (two per side).
@@ -8413,8 +8547,7 @@ An animate, immobile stone statue in your likeness rises. It makes verbal threat
 1d6 + 6 shriekers sprout
 A hungry bulette burrows up and attacks.
 A nest of 1d4 + 3 eggs springs up. Any creature
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 209
+
 01 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.
  11–20 A treant sprouts. There’s a 50 percent chance that the treant is chaotic evil and attacks.
  31–40 A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).
@@ -8450,7 +8583,8 @@ d8 Creature
 5 Panther
 6 Giant badger
 91–99 A pyramid with a 60-foot-square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord’s lair, and its sarcophagus contains treasure of the GM’s choice.
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 210
+
+
 
 7 Dire wolf
 8 Giant elk
@@ -8510,7 +8644,8 @@ Very rare
 Very rare
 Legendary
 Legendary
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 211
+
+
 Berserker Axe
 Weapon (any axe), rare (requires attunement)
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.
@@ -8555,7 +8690,8 @@ The brazier weighs 5 pounds.
 Brooch of Shielding
 Wondrous item, uncommon (requires attunement)
 While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the magic missile spell.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 212
+
+
 
 Broom of Flying
 Wondrous item, uncommon
@@ -8598,7 +8734,8 @@ This 6-­‐‑inch-­‐‑wide, 1-­‐‑foot-­‐‑high vessel resembles a
 Chime of Opening
 Wondrous item, rare
 This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime
-       Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 213
+
+
 
 issues a clear tone, and one lock or latch on the object opens unless the sound can’t reach the object. If no locks or latches remain, the object itself opens.
 The chime can be used ten times. After the tenth time, it cracks and becomes useless.
@@ -8641,7 +8778,8 @@ The typical crystal ball, a very rare item, is about 6 inches in diameter. While
 The following crystal ball variants are legendary items and have additional properties.
 Crystal Ball of Mind Reading. You can use an action to cast the detect thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if scrying ends.
 Crystal Ball of Telepathy. While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the suggestion spell (save DC 17) through the sensor on
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 214
+
+
 
 one of those creatures. You don’t need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can’t be used again until the next dawn.
 Crystal Ball of True Seeing. While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor.
@@ -8691,7 +8829,8 @@ After the hovering sword attacks for the fourth time, it flies up to 30 feet and
  3 Living matter can’t pass through the barrier.
  5 Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.
  The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 215
+
+
 
 at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
 Decanter of Endless Water
@@ -8777,7 +8916,8 @@ Ogre
 Orc
 Kobold
 You (the deck’s owner)
-                 Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 216
+
+
 Deck of Many Things
 Wondrous item, legendary
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-­‐‑two.
@@ -8849,7 +8989,8 @@ Rogue
 Balance*
 Fool*
            Jester
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 217
+
+
 
 the GM’s choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can’t be restored to life.
 Avatar of Death
@@ -8884,8 +9025,7 @@ Star. Increase one of your ability scores by 2. The score can exceed 20 but can�
 Sun. You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.
 Talons. Every magic item you wear or carry disintegrates. Artifacts in your possession aren’t destroyed but do vanish.
 Throne. You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 218
+
 
 Dimensional Shackles
 Wondrous item, rare
@@ -8925,7 +9065,8 @@ White Cold
       Weapon (any sword), rare
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon’s type. For the purpose of this weapon, “dragon”
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 219
+
+
 
 Dwarven Plate
 Armor (plate), very rare
@@ -8970,7 +9111,8 @@ The cloud persists as long as the bottle is open. Closing the bottle requires yo
 Eyes of Charming
 Wondrous item, uncommon (requires attunement)
 These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 charge as an action to cast the charm person spell
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 220
+
+
 91–00 The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.
 
 (save DC 13) on a humanoid within 30 feet of you, provided that you and the target can see each other. The lenses regain all expended charges daily at dawn.
@@ -9003,7 +9145,8 @@ d100 Feather Token
     Anchor. You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can’t be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 Bird. You can use an action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can’t attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-­‐‑hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
 Fan. If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 221
+
+
 
 commands, the creature defends itself but takes no other actions.
 The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can’t be used again until a certain amount of time has passed, as specified in the figurine’s description.
@@ -9037,7 +9180,8 @@ Senses darkvision 60 ft., passive Perception 10
 13 (+1)
 2 (−4)
 10 (+0)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 222
+
+
 
 it has been used, it can’t be used again until 2 days have passed. While in raven form, the figurine allows you to cast the animal messenger spell on it at will.
 Flame Tongue
@@ -9070,7 +9214,8 @@ Gem of Seeing
 Wondrous item, rare (requires attunement)
 This gem has 3 charges. As an action, you can speak the gem’s command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem.
 The gem regains 1d3 expended charges daily at dawn.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 223
+
+
 
 Giant Slayer
 Weapon (any axe or sword), rare
@@ -9098,7 +9243,8 @@ Wondrous item, rare
 This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.
 Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.
 The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 224
+
+
 
 Placing the haversack inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-­‐‑way only and can’t be reopened.
 Hat of Disguise
@@ -9131,7 +9277,8 @@ Holy Avenger
 Weapon (any sword), legendary (requires attunement by a paladin)
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
 While you hold the drawn sword, it creates an aura in a 10-­‐‑foot radius around you. You and all creatures friendly to you in the aura have advantage
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 225
+
+
 
 on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 Horn of Blasting
@@ -9165,7 +9312,8 @@ Proficiency with all simple weapons
 Proficiency with all martial weapons
  76–90 Bronze 4d4 + 4 Proficiency with all medium armor
  If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 226
+
+
 
 Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren’t being worn or carried take this damage and are pushed automatically.
 The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a wish spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of wish causes the roof, the door, or one wall to regain 50 hit points.
@@ -9192,7 +9340,8 @@ Any creature can cast a spell of 1st through 3rd level into the stone by touchin
 While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.
 Strength (Very Rare). Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.
 Sustenance (Rare). You don’t need to eat or drink while this clear spindle orbits your head.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 227
+
+
 
 Iron Bands of Binding
 Wondrous item, rare
@@ -9232,8 +9381,7 @@ Salamander
 Solar
 Succubus/incubus
 Xorn
-          Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 228
+
 Javelin of Lightning
 Weapon (javelin), uncommon
 This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failed save, and half as much damage on a successful one. The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4d6 lightning damage.
@@ -9293,8 +9441,7 @@ Cost
 50,000 gp
 100,000 gp
 80,000 gp
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 229
+
 
 To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
@@ -9320,7 +9467,8 @@ An extradimensional cell is an infinite expanse filled with thick fog that reduc
 If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.
 While within 5 feet of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror’s surface. You and the creature can then communicate normally.
 In a similar way, you can use an action to speak a second command word and free one creature
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 230
+
+
 
 trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
 Mithral Armor
@@ -9354,7 +9502,8 @@ Favor
 Smiting
  19 Summons
 20 Wind walking
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 231
+
+
 Nine Lives Stealer
 Weapon (any sword), very rare (requires attunement)
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
@@ -9399,7 +9548,8 @@ Pipes of the Sewers
 Wondrous item, uncommon (requires attunement)
 You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
 The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren’t enough rats to form a swarm, the charge is wasted. Called
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 232
+
+
 
 swarms move toward the music by the shortest available route but aren’t under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.
 Whenever a swarm of rats that isn’t under another creature’s control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm’s Wisdom check. If you lose the contest, the swarm behaves as it normally would and can’t be swayed by the pipes’ music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes’ music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can’t hear the pipes’ music, your control over that swarm ends, and the swarm behaves as it normally would and can’t be swayed by the pipes’ music for the next 24 hours.
@@ -9426,7 +9576,8 @@ When you drink this potion, you gain a climbing speed equal to your walking spee
 Potion of Diminution
 Potion, rare
 When you drink this potion, you gain the “reduce” effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion’s liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 233
+
+
 
 Potion of Flying
 Potion, very rare
@@ -9486,7 +9637,8 @@ Potion, rare
 Potion of Healing
 Potion, rarity varies
 You regain hit points when you drink this potion. The number of hit points depends on the potion’s rarity, as shown in the Potions of Healing table.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 234
+
+
 
 Potion of Resistance
 Potion, uncommon
@@ -9538,7 +9690,8 @@ This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. Whil
 • Fear (save DC 13), targeting only beasts that have
 an Intelligence of 3 or lower
 • Speak with animals
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 235
+
+
 
 rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
 If you help slay an earth elemental while attuned to the ring, you gain access to the following additional properties:
@@ -9577,7 +9730,8 @@ Ring, uncommon (requires attunement)
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die.
 If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can’t prevent this telepathic communication.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 236
+
+
 
 Ring of Protection
 Ring, rare (requires attunement)
@@ -9637,7 +9791,8 @@ The ring has 6 charges for the following other properties. The ring regains 1d6 
 Faerie Fire. You can expend 1 charge as an action to cast faerie fire from the ring.
 Ball Lightning. You can expend 2 charges as an action to create one to four 3-­‐‑foot-­‐‑diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
 Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-­‐‑foot radius.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 237
+
+
 
 Ring of Swimming
 Ring, uncommon
@@ -9677,7 +9832,8 @@ Wondrous item, very rare (requires attunement)
 This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. While you wear it, you can
 use an action and expend 1 charge to cause the garment to display a shifting pattern of dazzling
 hues until the end of your next turn. During this time, the robe sheds bright light in a 30-­‐‑foot radius and dim light for an additional 30 feet. Creatures that can see you have disadvantage on attack rolls against you. In addition, any creature in the bright light that can see you when the robe’s power is activated must succeed on a DC 15 Wisdom saving throw or become stunned until the effect ends.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 238
+
+
 
 Robe of Stars
 Wondrous item, very rare (requires attunement)
@@ -9720,7 +9876,8 @@ While holding this rod, you can use your reaction to absorb a spell that is targ
 When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
 If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots, up to a maximum of 5th level. You use the stored levels in place of your slots, but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a 3rd-­‐‑level spell slot.
    52–59 Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 239
+
+
 16–22 Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself
 
 A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
@@ -9749,7 +9906,8 @@ Terrify. While holding the rod, you can use an action to force each creature you
 Rod of Rulership
 Rod, rare (requires attunement)
 You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 240
+
+
 
 trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way.
 The rod can’t be used again until the next dawn.
@@ -9776,8 +9934,7 @@ If you hold this beetle-­‐‑shaped medallion in your hand for 1 round, an in
 Scimitar of Speed
 Weapon (scimitar), very rare (requires attunement)
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 241
+
 
 Shield, +1, +2, or +3
 Armor (shield), uncommon (+1), rare (+2), or very rare (+3)
@@ -9852,7 +10009,8 @@ Sphere of Annihilation
 Wondrous item, legendary
 This 2-­‐‑foot-­‐‑diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an artifact is susceptible to damage from a sphere of annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn’t wholly engulfed and obliterated by it takes 4d10 force damage.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 242
+
+
 
 The sphere is stationary until someone controls it. If you are within 60 feet of an uncontrolled sphere, you can use an action to make a DC 25 Intelligence (Arcana) check. On a success, the sphere levitates in one direction of your choice, up to a number of feet equal to 5 × your Intelligence modifier (minimum 5 feet). On a failure, the sphere moves 10 feet toward you. A creature whose space the sphere enters must succeed on a DC 13 Dexterity saving throw or be touched by it, taking 4d10 force damage.
 If you attempt to control a sphere that is under another creature’s control, you make an Intelligence (Arcana) check contested by the other creature’s Intelligence (Arcana) check. The winner of the contest gains control of the sphere and can levitate it as normal.
@@ -9883,7 +10041,8 @@ Staff of Power
 Staff, very rare (requires attunement by a sorcerer, warlock, or wizard)
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
  86–00 A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 243
+
+
 
 The staff has 20 charges for the following properties. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff retains its +2 bonus to attack and damage rolls but loses all other properties. On a 20, the staff regains 1d8 + 2 charges.
 Power Strike. When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.
@@ -9913,7 +10072,8 @@ Damage
   Staff, very rare (requires attunement)
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
 The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage. The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 244
+
+
 
 telekinesis (5 charges), wall of fire (4 charges), or web (2 charges).
 You can also use an action to cast one of the following spells from the staff without using any charges: arcane lock, detect magic, enlarge/reduce, light, mage hand, or protection from evil and good.
@@ -9945,7 +10105,8 @@ Staff, uncommon (requires attunement by a cleric, druid, or warlock)
 You can use an action to speak this staff’s command word and throw the staff on the ground within 10 feet of you. The staff becomes a giant constrictor snake under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
 On your turn, you can mentally command the snake if it is within 60 feet of you and you aren’t incapacitated. You decide what action the snake takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
 If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its hit points, it regains all of them.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 245
+
+
 
 taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.
 Thunderclap. You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn’t deafened.
@@ -9978,7 +10139,8 @@ Sword of Wounding
 Weapon (any sword), rare (requires attunement)
 Hit points lost to this weapon’s damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature’s turns, it takes 1d4 necrotic damage for each time you’ve wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it,
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 246
+
+
 
 can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
 Talisman of Pure Good
@@ -10006,7 +10168,8 @@ This book contains intuition and insight exercises, and its words are charged wi
 Trident of Fish Command
 Weapon (trident), uncommon (requires attunement)
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast dominate beast (save DC 15) from it
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 247
+
+
 
 on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.
 Universal Solvent
@@ -10037,7 +10200,8 @@ Wand of Fireballs
 Wand, rare (requires attunement by a spellcaster)
 This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the fireball spell (save DC 15) from it. For 1 charge, you cast the 3rd-­‐‑level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 248
+
+
 
 d20. On a 1, the wand crumbles into ashes and is destroyed.
 Wand of Lightning Bolts
@@ -10074,7 +10238,8 @@ Wand, rare (requires attunement by a spellcaster)
 This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space. Roll d100 and consult the following table to discover what happens.
 If the effect causes you to cast a spell from the wand, the spell’s save DC is 15. If the spell normally has a range expressed in feet, its range becomes 120 feet if it isn’t already.
 If an effect covers an area, you must center the spell on and include the target. If an effect has
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 249
+
+
 
  multiple possible subjects, the GM randomly determines which ones are affected.
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
@@ -10105,7 +10270,8 @@ ts on the target you
  59–62 Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.
  66–69 You shrink yourself as if you had cast enlarge/reduce on yourself.
  88–90 A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand’s tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 250
+
+
 96–97 The target’s skin turns bright blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected.
  Weapon, +1, +2, or +3
 Weapon (any), uncommon (+1), rare (+2), or very rare (+3)
@@ -10166,7 +10332,8 @@ Special Purpose
 90–96
 97–00
       You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder’s use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 251
+
+
 
 can pick a special purpose or roll on the following table.
 d10 Purpose
@@ -10209,7 +10376,8 @@ or kind of creature, such as elves or druids.
   Templar: The item seeks to defend the servants and interests of a particular deity.
  Glory Seeker: The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure.
  Destiny Seeker: The item is convinced that it and its wielder have key roles to play in future events.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 252
+
+
 
 world, to advance the worship of Tiamat, or something else the GM decides.
 Random Properties. An Orb of Dragonkind has the following random properties:
@@ -10218,8 +10386,7 @@ Spells. The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn
 You can also use an action to cast the detect magic spell from the orb without using any charges.
 Call Dragons. While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can’t be used again for 1 hour.
 Destroying an Orb. An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A disintegrate spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 253
+
 
 Monsters
 A monster’s statistics, sometimes referred to as its stat block, provide the essential information that you need to run the monster.
@@ -10262,7 +10429,8 @@ Despite the versatile collection of monsters in this book, you might be at a los
 The game includes the following monster types, which have no rules of their own.
 Aberrations are utterly alien beings. Many of them have innate magical abilities drawn from the creature’s alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 Beasts are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 254
+
+
 
 Giants tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 Humanoids are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
@@ -10284,7 +10452,8 @@ Hit Points
 A monster usually dies or is destroyed when it drops to 0 hit points. For more on hit points, see the Player’s Handbook.
 A monster’s hit points are presented both as a die expression and as an average number. For example, a monster with 2d8 hit points has 9 hit points on average (2 × 41⁄2).
 A monster’s size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 255
+
+
 
 Hit Dice by Size
 Ability Scores
@@ -10364,7 +10533,8 @@ Proficiency Challenge Bonus
 28 +8
 29 +9
 30 +9
-                    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 256
+
+
 The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks.
 A skill bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a
 
@@ -10393,7 +10563,8 @@ A creature within the area of an antimagic field or in any other location where 
 Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
 For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
 See the Player’s Handbook for rules on using armor or weapons without proficiency.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 257
+
+
 
 Challenge
 A monster’s challenge rating tells you how great a threat the monster is. An appropriately equipped and well-­‐‑rested party of four adventurers should be able to defeat a monster that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-­‐‑level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one.
@@ -10468,7 +10639,8 @@ Challenge XP
 28 120,000
 29 135,000
 30 155,000
-                  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 258
+
+
 
 Psionics
 A monster that casts spells using only the power of its mind has the psionics tag added to its Spellcasting or Innate Spellcasting special trait. This tag carries no special rules of its own, but other parts of the game might refer to it. A monster that has this tag typically doesn’t require any components to cast its spells.
@@ -10496,7 +10668,8 @@ Many monsters have special attacks that allow them to quickly grapple prey. When
 A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster’s stat block. If no escape DC is given, assume the DC is 10 + the monster’s Strength (Athletics) modifier.
  Equipment
 A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 259
+
+
 
 You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
@@ -10512,8 +10685,7 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 Regional Effects
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as
 noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 260
+
 
 Monsters (A)
 Aboleth
@@ -10564,7 +10736,8 @@ WIS
 20 (+5)
 CHA
 20 (+5)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 261
+
+
 Saving Throws Wis +9, Cha +9
 Skills Insight +9, Perception +9
 Damage Resistances radiant; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -10616,8 +10789,7 @@ STR
 DEX CON
 22 (+6) 26 (+8)
 INT WIS CHA
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 262
+
 25 (+7)
 25 (+7) 30 (+10)
 
@@ -10653,7 +10825,8 @@ Animated Armor
 Medium construct, unaligned
 Armor Class 18 (natural armor) Hit Points 33 (6d8 + 6)
 Speed 25 ft.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 263
+
+
 STR
 DEX
 CON
@@ -10736,7 +10909,8 @@ WIS
 13 (+1)
 CHA
 6 (−2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 264
+
+
 Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 Languages — Challenge 2 (450 XP)
 
@@ -10784,7 +10958,8 @@ Heated Weapons. When the azer hits with a metal melee weapon, it deals an extra 
 Illumination. The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 Actions
 Warhammer. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 265
+
+
 
   STR DEX CON INT WIS CHA
 23(+6) 16(+3) 18(+4) 7(−2) 14(+2) 12(+1)
@@ -10831,7 +11006,8 @@ Languages — Challenge 5 (1,800 XP)
 Standing Leap. The bulette’s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 Actions
 Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12 + 4) piercing damage.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 266
+
+
 
 Deadly Leap. If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target’s choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn’t knocked prone, and is pushed 5 feet out of the bulette’s space into an unoccupied space of the creature’s choice. If no unoccupied space is within range, the creature instead falls prone in the bulette’s space.
 Chimera
@@ -10898,7 +11074,8 @@ WIS
 11 (+0)
 CHA
 5 (−3)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 267
+
+
 Skills Perception +4
 Damage Immunities poison
 Condition Immunities poisoned
@@ -10943,7 +11120,8 @@ Senses darkvision 60 ft., passive Perception 11 Languages Deep Speech, Undercomm
 Damage Transfer. While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
 False Appearance. While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.
 Light Sensitivity. While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 268
+
+
 
  STR DEX CON INT WIS
 6 (−2) 12 (+1) 12 (+1) 2 (−4) 13 (+1)
@@ -11000,7 +11178,8 @@ CHA
 Senses blindsight 60 ft., passive Perception 10
 2 (−4)
 10 (+0)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 269
+
+
 Skills Stealth +3 Languages —
 
 Challenge 1/2 (100 XP)
@@ -11042,7 +11221,8 @@ Damage Resistances cold, lightning; bludgeoning, piercing, and slashing from non
 20 (+5)
 16 (+3)
 22 (+6)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 270
+
+
 
  STR DEX CON INT WIS
 11 (+0) 11 (+0) 12 (+1) 5 (−3) 8 (−1)
@@ -11106,7 +11286,8 @@ Stench. Any creature that starts its turn within 10 feet of the hezrou must succ
 Damage Immunities poison
 Condition Immunities poisoned
 Senses truesight 120 ft., passive Perception 13 Languages Abyssal, telepathy 120 ft. Challenge 9 (5,000 XP)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 271
+
+
 
 Actions
 Multiattack. The hezrou makes three attacks: one with its bite and two with its claws.
@@ -11162,7 +11343,8 @@ Multiattack. The nalfeshnee uses Horror Nimbus if it can. It then makes three at
 Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.
 Claw. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.
 Horror Nimbus (Recharge 5–6). The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 272
+
+
 
 creature is immune to the nalfeshnee’s Horror Nimbus for the next 24 hours.
 Teleport. The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
@@ -11214,7 +11396,8 @@ Spores (Recharge 6). A 15-foot-radius cloud of toxic spores extends out from the
 17 (+3) 15 (+2) 18 (+4)
 Saving Throws Dex +5, Wis +4, Cha +2
 8 (−1)
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 273
+
+
 
 Stunning Screech (1/Day). The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn’t a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock’s next turn.
 a flammable object that isn’t being worn or carried, it also catches fire.
@@ -11276,7 +11459,8 @@ Multiattack. The devil makes three melee attacks: one with its tail and two with
 Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 Tail. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 Hurl Flame. Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage. If the target is
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 274
+
+
 
 successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 STR DEX CON INT WIS
@@ -11325,7 +11509,8 @@ Sting. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 
 Chain Devil
 Medium fiend (devil), lawful evil
 Armor Class 16 (natural armor) Hit Points 85 (10d8 + 40) Speed 30 ft.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 275
+
+
 
 Wisdom saving throw or be frightened until the end of its turn.
 Horned Devil
@@ -11377,7 +11562,8 @@ Longsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 
 Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 Reactions
 Parry. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 276
+
+
 
 Ice Devil
 Large fiend (devil), lawful evil
@@ -11434,7 +11620,8 @@ Challenge 1 (200 XP)
 Shapechanger. The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 Devil’s Sight. Magical darkness doesn’t impede the imp’s darkvision.
 Magic Resistance. The imp has advantage on saving throws against spells and other magical effects.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 277
+
+
 
  Actions
 Sting (Bite in Beast Form). Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
@@ -11481,7 +11668,8 @@ Fist. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) blud
 Pit Fiend
 Large fiend (devil), lawful evil
 Armor Class 19 (natural armor) Hit Points 300 (24d10 + 168) Speed 30 ft., fly 60 ft.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 278
+
+
 
 Mace. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
 Tail. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.
@@ -11558,8 +11746,7 @@ WIS
 12 (+1)
 CHA
 14 (+2)
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 279
+
 
   Skills Deception +6, Insight +3
 Condition Immunities charmed
@@ -11594,7 +11781,8 @@ Frightful Presence. Each creature of the dragon’s choice that is within 120 fe
 Acid Breath (Recharge 5–6). The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 Legendary Actions
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
-     Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 280
+
+
 
 Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
@@ -11643,7 +11831,8 @@ WIS
 11 (+0)
 CHA
 15 (+2)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 281
+
+
 Saving Throws Dex +5, Con +6, Wis +3, Cha +5
 Skills Perception +6, Stealth +5
 Damage Immunities acid
@@ -11706,7 +11895,8 @@ Amphibious. The dragon can breathe air and water. Actions
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 Acid Breath (Recharge 5–6). The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 Blue Dragon
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 282
+
+
 
 Legendary Actions
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
@@ -11754,7 +11944,8 @@ WIS
 13 (+1)
 CHA
 17 (+3)
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 283
+
+
 Saving Throws Dex +4, Con +8, Wis +5, Cha +7
 Skills Perception +9, Stealth +4
 Damage Immunities lightning
@@ -11817,7 +12008,8 @@ Actions
 Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 Lightning Breath (Recharge 5–6). The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity
 saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 284
+
+
 
 Poison Breath (Recharge 5–6). The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 Legendary Actions
@@ -11863,7 +12055,8 @@ CHA
 21 (+5)
 18 (+4)
 15 (+2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 285
+
+
 
  STR DEX CON INT WIS
 19 (+4) 12 (+1) 17 (+3) 16 (+3) 13 (+1)
@@ -11926,7 +12119,8 @@ Damage Immunities poison
 Condition Immunities poisoned
 Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
 Languages Draconic Challenge 2 (450 XP)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 286
+
+
 
 Tail. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage.
 Frightful Presence. Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
@@ -11963,7 +12157,8 @@ CHA
 Skills Perception +13, Stealth +6
 Damage Immunities fire
 Senses blindsight 60 ft., darkvision 120 ft., passive Perception 23
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 287
+
+
 
 Young Red Dragon
 Large dragon, chaotic evil
@@ -12036,7 +12231,8 @@ Skills Perception +4, Stealth +2
 Damage Immunities fire
 Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
 Languages Draconic
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 288
+
+
 
 Claw. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
 Tail. Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
@@ -12071,7 +12267,8 @@ Legendary Actions
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 Detect. The dragon makes a Wisdom (Perception) check.
 Tail Attack. The dragon makes a tail attack.
-     Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 289
+
+
 
 Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 Young White Dragon
@@ -12142,7 +12339,8 @@ CHA
 16 (+3)
 15 (+2)
 19 (+4)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 290
+
+
 
 Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
 Actions
@@ -12183,7 +12381,8 @@ Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6
 23 (+6) 10 (+0) 21 (+5) 14 (+2)
 Saving Throws Dex +5, Con +10, Wis +6, Cha +8
 13 (+1)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 291
+
+
 
  Tail. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
 Frightful Presence. Each creature of the dragon’s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the dragon’s Frightful Presence for the next 24 hours.
@@ -12206,7 +12405,8 @@ Skills Perception +6, Persuasion +5, Stealth +3
 Damage Immunities fire
 CHA
 15 (+2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 292
+
+
 Senses blindsight 30 ft., darkvision 120 ft., passive Perception 16
 Languages Common, Draconic Challenge 6 (2,300 XP)
 Actions
@@ -12274,7 +12474,8 @@ Senses blindsight 60 ft., darkvision 120 ft., passive Perception 27
 Languages Common, Draconic Challenge 22 (41,000 XP)
 Amphibious. The dragon can breathe air and water. Legendary Resistance (3/Day). If the dragon fails a
 saving throw, it can choose to succeed instead.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 293
+
+
 
 option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
 Detect. The dragon makes a Wisdom (Perception) check.
@@ -12313,7 +12514,8 @@ Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 +
 Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
 Tail. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage.
 Frightful Presence. Each creature of the dragon’s choice that is within 120 feet of the dragon and aware
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 294
+
+
 
  Young Bronze Dragon
 Large dragon, lawful good
@@ -12370,7 +12572,8 @@ WIS
 17 (+3)
 CHA
 19 (+4)
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 295
+
+
 Saving Throws Dex +8, Con +14, Wis +10, Cha +11
 Skills Deception +11, Perception +17, Stealth +8
 Damage Immunities acid
@@ -12409,7 +12612,8 @@ WIS
 15 (+2)
 CHA
 17 (+3)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 296
+
+
 Saving Throws Dex +6, Con +10, Wis +7, Cha +8
 Skills Deception +8, Perception +12, Stealth +6
 Damage Immunities acid
@@ -12457,8 +12661,7 @@ Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 
 Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
 Acid Breath. The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 297
+
 
 Slowing Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 Gold Dragon
@@ -12511,7 +12714,8 @@ Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2)
 Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
 Acid Breath. The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
 Slowing Breath. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can’t use reactions, its speed is halved, and it can’t make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 298
+
+
 
 Breath Weapons (Recharge 5–6). The dragon uses one of the following breath weapons.
 Fire Breath. The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
@@ -12555,7 +12759,8 @@ CHA
 16 (+3)
 15 (+2)
 24 (+7)
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 299
+
+
 
  Weakening Breath. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 Change Shape. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon’s choice).
@@ -12605,7 +12810,8 @@ CHA
 WIS
 CHA
 16 (+3)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 300
+
+
 
 Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
 Languages Draconic Challenge 3 (700 XP)
@@ -12646,7 +12852,8 @@ Languages Common, Draconic Challenge 23 (50,000 XP)
 18 (+4)
 15 (+2)
 23 (+6)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 301
+
+
 
 Legendary Actions
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The dragon regains spent legendary actions at the start of its turn.
@@ -12689,7 +12896,8 @@ Multiattack. The dragon can use its Frightful Presence. It then makes three atta
 Bite. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage.
 Claw. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage.
 Tail. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 302
+
+
 
 Wing Attack (Costs 2 Actions). The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 Silver Dragon Wyrmling
@@ -12752,7 +12960,8 @@ WIS
 12 (+1)
 CHA
 12 (+1)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 303
+
+
 Saving Throws Dex +6, Con +11, Wis +7 Damage Resistances fire
 Senses darkvision 120 ft., passive Perception 11
 
@@ -12810,7 +13019,8 @@ Senses darkvision 60 ft., passive Perception 14 Languages Elvish, Sylvan
 Challenge 1 (200 XP)
 Innate Spellcasting. The dryad’s innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 At will: druidcraft
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 304
+
+
 
  3/day each: entangle, goodberry
 1/day each: barkskin, pass without trace, shillelagh
@@ -12853,7 +13063,8 @@ WIS
 10 (+0)
 CHA
 9 (−1)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 305
+
+
 
  STR DEX CON INT WIS CHA
 14 (+2) 20 (+5) 14 (+2) 6 (−2) 10 (+0) 6 (−2)
@@ -12909,7 +13120,8 @@ CHA
 5 (−3)
 5 (−3)
  Damage Resistances bludgeoning, piercing, and slashing from nonmagical attacks
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 306
+
+
 
 takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 Illumination. The elemental sheds bright light in a 30- foot radius and dim light in an additional 30 feet.
@@ -12965,7 +13177,8 @@ Sunlight Sensitivity. While in sunlight, the drow has disadvantage on attack rol
 Actions
 Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 Hand Crossbow. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 307
+
+
 
 damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
@@ -13012,8 +13225,7 @@ Multiattack. The ettercap makes two attacks: one with its bite and one with its 
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.
 Web (Recharge 5–6). Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 308
+
 
 Monsters (F) Fungi
 Shrieker
@@ -13081,7 +13293,8 @@ Languages — Challenge 1/4 (50 XP)
 1 (−5)
 3 (−4)
 1 (−5)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 309
+
+
 
 Genies
 Djinni
@@ -13141,7 +13354,8 @@ Actions
 Multiattack. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 Scimitar. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 Hurl Flame. Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 310
+
+
 
 Ghost
 Medium undead, any alignment
@@ -13176,7 +13390,8 @@ Horrifying Visage. Each non-undead creature within 60 feet of the ghost that can
 Ghouls
 Ghast
 Medium undead, chaotic evil
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 311
+
+
 Armor Class 13
 Hit Points 36 (8d8) Speed 30 ft.
   STR
@@ -13268,7 +13483,8 @@ CHA
  Saving Throws Dex +3, Con +10, Cha +5 Skills Athletics +11, Perception +6 Damage Immunities fire
 Senses passive Perception 16 Languages Giant
 Challenge 9 (5,000 XP) Actions
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 312
+
+
 Multiattack. The giant makes two greatsword attacks.
 
 Greatsword. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.
@@ -13335,8 +13551,7 @@ WIS
 18 (+4)
 CHA
 18 (+4)
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 313
+
 
  Saving Throws Str +14, Con +10, Wis +9, Cha +9 Skills Arcana +8, Athletics +14, History +8, Perception
 +9
@@ -13385,7 +13600,8 @@ WIS
 10 (+0)
 CHA
 7 (−2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 314
+
+
 Senses darkvision 60 ft., passive Perception 10 Languages Gnoll
 Challenge 1/2 (100 XP)
 
@@ -13444,7 +13660,8 @@ Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 
     20(+5) 9(−1) 18(+4) 3(−4) 8(−1) 1(−5)
 Damage Immunities acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
 Condition Immunities charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 315
+
+
 
  Senses darkvision 60 ft., passive Perception 9 Languages understands the languages of its creator but
 can’t speak Challenge 9 (5,000 XP)
@@ -13485,7 +13702,8 @@ WIS
 10 (+0)
 CHA
 5 (−3)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 316
+
+
 
  Iron Golem
 Large construct, unaligned
@@ -13545,7 +13763,8 @@ WIS
 12 (+1)
 CHA
 7 (−2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 317
+
+
 
 Languages — Challenge 5 (1,800 XP)
 Trampling Charge. If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
@@ -13615,7 +13834,8 @@ CHA
 Condition Immunities blinded
 Senses blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
 Languages Undercommon Challenge 1/4 (50 XP)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 318
+
+
 
  Blind Senses. The grimlock can’t use its blindsight while deafened and unable to smell.
 Keen Hearing and Smell. The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -13660,7 +13880,8 @@ WIS
 14 (+2)
 CHA
 16 (+3)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 319
+
+
 Skills Deception +7, Insight +6, Perception +6, Stealth +6
 Damage Resistances cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 Condition Immunities charmed
@@ -13713,7 +13934,8 @@ Blue or bronze
 Damage Resistance
 Acid
 Lightning
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 320
+
+
 
 Brass, gold, or red Fire
 Green Poison
@@ -13779,7 +14001,8 @@ Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 
 Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
 Fire Breath (Recharge 5–6). The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 321
+
+
 
 Speed 50 ft.
 STR DEX
@@ -13851,7 +14074,8 @@ CHA
 10 (+0)
 4 (−3) 15 (+2) 11 (+0)
 10 (+0) Condition Immunities charmed, poisoned
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 322
+
+
 Damage Immunities poison
 Senses darkvision 60 ft., passive Perception 10
 
@@ -13906,7 +14130,8 @@ Multiple Heads. The hydra has five heads. While it has more than one head, the h
 Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
 At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.
 Reactive Heads. For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 323
+
+
 
 Monsters (K)
 Kobold
@@ -13958,7 +14183,8 @@ CHA
  Saving Throws Str +17, Dex +7, Con +14, Int +13, Wis +11
 Damage Immunities lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 Condition Immunities frightened, paralyzed Senses truesight 120 ft., passive Perception 14
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 324
+
+
 
 lightning damage on a failed save, or half as much damage on a successful one.
 Legendary Actions
@@ -14010,7 +14236,8 @@ Saving Throws Con +10, Int +12, Wis +9
  Skills Deception +7, Insight +4, Stealth +3 Senses darkvision 60 ft., passive Perception 12 Languages Abyssal, Common
 Challenge 4 (1,100 XP)
 Innate Spellcasting. The lamia’s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 325
+
+
 
 to hit with spell attacks). The lich has the following wizard spells prepared:
 Cantrips (at will): mage hand, prestidigitation, ray of frost
@@ -14061,7 +14288,8 @@ Medium humanoid (human, shapechanger), neutral good
 Armor Class 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 Hit Points 135 (18d8 + 54)
 Speed 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
-    Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 326
+
+
 
   STR DEX CON INT WIS CHA
 19 (+4) 10 (+0) 17 (+3) 11 (+0) 12 (+1) 12 (+1) Skills Perception +7
@@ -14105,7 +14333,8 @@ CHA
 8 (−1)
 12 (+1)
 11 (+0)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 327
+
+
 CON
 INT
 WIS
@@ -14151,7 +14380,8 @@ CHA
 11 (+0)
   Damage Immunities bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 Senses darkvision 60 ft., passive Perception 15
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 328
+
+
 
  STR DEX CON INT
 15 (+2) 13 (+1) 14 (+2) 10 (+0) Skills Perception +4, Stealth +3
@@ -14204,7 +14434,8 @@ WIS
 12 (+1)
 CHA
 8 (−1)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 329
+
+
 Senses darkvision 60 ft., passive Perception 11 Languages Common
 Challenge 3 (700 XP)
 Tail Spike Regrowth. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
@@ -14252,7 +14483,8 @@ WIS
 11 (+0)
 CHA
 10 (+0)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 330
+
+
 Skills Perception +2, Stealth +4
 Damage Vulnerabilities fire
 Damage Immunities poison
@@ -14318,7 +14550,8 @@ Small elemental, neutral evil
 Armor Class 10
 9 (−1)
 11 (+0)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 331
+
+
 
 Hit Points 21 (6d6) Speed 30 ft., fly 30 ft.
 Actions
@@ -14397,7 +14630,8 @@ WIS
 CHA
 8 (−1)
 17 (+3) 12 (+1) Skills Stealth +5
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 332
+
+
 
 Condition Immunities prone
 Senses darkvision 60 ft., passive Perception 11 Languages —
@@ -14458,7 +14692,8 @@ Senses darkvision 60 ft., passive Perception 17
  Challenge 3 (700 XP)
 Charge. If the minotaur moves at least 10 feet straight
 toward a target and then hits it with a gore attack on
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 333
+
+
 
 target can’t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target’s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
 Dreadful Glare. The mummy targets one creature it
@@ -14502,7 +14737,8 @@ Magic Resistance. The mummy lord has advantage on saving throws against spells a
 Rejuvenation. A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord’s heart.
 Spellcasting. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 Cantrips (at will): sacred flame, thaumaturgy
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 334
+
+
 
 Blasphemous Word (Costs 2 Actions). The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord’s next turn.
 Channel Negative Energy (Costs 2 Actions). The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can’t regain hit points until the end of the mummy lord’s next turn.
@@ -14555,7 +14791,8 @@ Condition Immunities charmed, poisoned Senses darkvision 60 ft., passive Percept
 Challenge 8 (3,900 XP)
 Rejuvenation. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
 Spellcasting. The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 335
+
+
 
 components to cast its spells. It has the following wizard spells prepared:
 Cantrips (at will): mage hand, minor illusion, ray of frost
@@ -14611,7 +14848,8 @@ At will: darkness, invisibility
 1/day each: charm person, cone of cold, gaseous form,
 sleep
 Magic Weapons. The oni’s weapon attacks are magical.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 336
+
+
 
 Regeneration. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 Actions
@@ -14651,7 +14889,8 @@ Senses blindsight 60 ft. (blind beyond this radius), passive Perception 8
 Languages — Challenge 4 (1,100 XP)
 Amorphous. The pudding can move through a space as narrow as 1 inch wide without squeezing.
 Corrosive Form. A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 337
+
+
 
 action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.
 The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.
@@ -14690,7 +14929,8 @@ Damage Immunities lightning, slashing
 Condition Immunities blinded, charmed, deafened, exhaustion, frightened, prone
 Senses blindsight 60 ft. (blind beyond this radius), passive Perception 8
 Languages — Challenge 2 (450 XP)
-      Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 338
+
+
 
 Amorphous. The jelly can move through a space as narrow as 1 inch wide without squeezing.
 Spider Climb. The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -14746,7 +14986,8 @@ Javelin. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 f
 Otyugh
 Large aberration, neutral
 Armor Class 14 (natural armor)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 339
+
+
 
 Hit Points 59 (7d10 + 21) Speed 40 ft.
 Pseudodragon
@@ -14813,7 +15054,8 @@ Senses passive Perception 16
 Languages understands Celestial, Common, Elvish, and Sylvan but can’t speak
 Challenge 2 (450 XP) Actions
 Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 340
+
+
 
   Saving Throws Con +11, Wis +4
 Senses blindsight 30 ft., tremorsense 60 ft., passive
@@ -14866,8 +15108,7 @@ WIS
 16 (+3)
 CHA
 20 (+5)
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 341
+
 
  Damage Immunities cold, fire
 Senses darkvision 60 ft., tremorsense 60 ft., passive
@@ -14918,7 +15159,8 @@ Senses passive Perception 14 Languages —
 10 (+0)
 Skills Perception +6, Stealth +5 Languages —
 Challenge 5 (1,800 XP)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 342
+
+
 
 Actions
 Multiattack. The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
@@ -14970,7 +15212,8 @@ WIS
 CHA
 6 (−2)
 Skills Perception +5 Languages Sahuagin
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 343
+
+
 
  Salamander
 Large elemental, neutral evil
@@ -15026,7 +15269,8 @@ CHA
 Skills Stealth +4 (+6 in dim light or darkness)
 6 (−2)
 10 (+0)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 344
+
+
 Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 Damage Immunities necrotic, poison
 Condition Immunities exhaustion, frightened, grappled,
@@ -15088,7 +15332,8 @@ Actions
 Multiattack. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 Engulf. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 345
+
+
 
 Fist. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 Reactions
@@ -15171,8 +15416,7 @@ WIS
 10 (+0)
 CHA
 11 (+0)
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 346
+
 
  Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 Damage Immunities necrotic, poison
@@ -15217,7 +15461,8 @@ CHA
 Skills Arcana +9, Perception +10, Religion +15
 Damage Immunities psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 Condition Immunities charmed, frightened Senses truesight 120 ft., passive Perception 20
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 347
+
+
 
 Third Roar. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn’t knocked prone.
 Legendary Actions
@@ -15263,7 +15508,8 @@ Sprite
 Tiny fey, neutral good
 Armor Class 15 (leather armor) Hit Points 2 (1d4)
 Speed 10 ft., fly 40 ft.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 348
+
+
 STR DEX CON
 3 (−4) 18 (+4) 10 (+0)
 INT
@@ -15317,7 +15563,8 @@ Challenge 1/8 (25 XP)
 Actions
 Blood Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn’t attack. Instead, at the start of each of the stirge’s turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
 The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 349
+
+
 
 Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target’s hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 Etherealness. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
@@ -15354,7 +15601,8 @@ Magic Resistance. The tarrasque has advantage on saving throws against spells an
 Reflective Carapace. Any time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
 Siege Monster. The tarrasque deals double damage to objects and structures.
 3 (−4)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 350
+
+
 
 another creature’s turn. The tarrasque regains spent legendary actions at the start of its turn.
 Attack. The tarrasque makes one claw attack or tail attack.
@@ -15423,7 +15671,8 @@ CHA
 Condition Immunities charmed, paralyzed, poisoned
 17 (+3)
 16 (+3)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 351
+
+
 Damage Immunities poison
 Senses darkvision 60 ft., passive Perception 13
 
@@ -15466,7 +15715,8 @@ Senses darkvision 120 ft., passive Perception 17 Languages the languages it knew
 Shapechanger. If the vampire isn’t in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 While in bat form, the vampire can’t speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 While in mist form, the vampire can’t take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature’s space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 352
+
+
 
 saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
 Legendary Resistance (3/Day). If the vampire fails a saving throw, it can choose to succeed instead.
@@ -15492,8 +15742,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 Move. The vampire moves up to its speed without provoking opportunity attacks.
 Unarmed Strike. The vampire makes one unarmed strike.
 Bite (Costs 2 Actions). The vampire makes one bite attack.
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 353
+
 
 Vampire Spawn
 Medium undead, neutral evil
@@ -15548,7 +15797,8 @@ Sunlight Sensitivity. While in sunlight, the wight has disadvantage on attack ro
 Actions
 Multiattack. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 Life Drain. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 354
+
+
 
 if this effect reduces its hit point maximum to 0.
 A humanoid slain by this attack rises 24 hours later
@@ -15601,7 +15851,8 @@ Consume Life. As a bonus action, the will-o’-wisp can target one creature it c
 Ephemeral. The will-o’-wisp can’t wear or carry anything.
 Incorporeal Movement. The will-o’-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 Variable Illumination. The will-o’-wisp sheds bright light in a 5- to 20-foot radius and dim light for an
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 355
+
+
 
  Create Specter. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target’s spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith’s control. The wraith can have no more than seven specters under its control at one time.
 STR DEX CON INT
@@ -15659,7 +15910,8 @@ Xorn
 Medium elemental, neutral
 Armor Class 19 (natural armor) Hit Points 73 (7d8 + 42)
 Speed 20 ft., burrow 20 ft.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 356
+
+
 
 Languages understands the languages it knew in life but can’t speak
 Challenge 1/4 (50 XP)
@@ -15681,8 +15933,7 @@ Challenge 2 (450 XP)
 Undead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 Actions
 Morningstar. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-    Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 357
+
 
   6 Death
 If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.
@@ -15728,7 +15979,8 @@ Effect
 3 Disadvantage on attack rolls and saving throws
 4 Hit point maximum halved
 5 Speed reduced to 0
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 358
+
+
 
 • Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 Petrified
@@ -15762,8 +16014,7 @@ Unconscious
 • Attack rolls against the creature have advantage.
 • Any attack that hits the creature is a critical hit if
 the attacker is within 5 feet of the creature.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 359
+
 
 Appendix PH-B:
 Fantasy-Historical
@@ -15811,8 +16062,7 @@ Red sun-capped mountain peak
 Giant mallet over sword
 Pair of long hands
 Wave of white water on green
-     Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 360
+
 
                                    Math Mathonwy, god of magic
 Morrigan, goddess of battle
@@ -15940,7 +16190,8 @@ Knowledge, War Tempest
 Life, Light
 Light
 Life, Light Life
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 361
+
+
 
 Frigga, goddess of birth and fertility
 Heimdall, god of watchfulness and loyalty
@@ -15983,7 +16234,8 @@ Hammer
 White double-bladed axe
 Sword
 Longbow
-       Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 362
+
+
 
 Appendix PH-C:
 The Planes of
@@ -16004,7 +16256,8 @@ Transitive Planes
 The Ethereal Plane and the Astral Plane are called
 the Transitive Planes. They are mostly featureless realms that serve primarily as ways to travel from one plane to another. Spells such as etherealness and astral projection allow characters to enter these planes and traverse them to reach the planes beyond.
 The Ethereal Plane is a misty, fog-­‐‑bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the see invisibility
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 363
+
+
 
 and true seeing spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as forcecage and wall of force. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
 The Astral Plane is the realm of thought and dream, where visitors travel as disembodied souls to reach the planes of the divine and demonic. It is a great, silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light resembling distant stars. Erratic whirlpools of color flicker in midair like spinning coins. Occasional  bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
@@ -16022,11 +16275,11 @@ Outer Planes
 The planes with some element of good in their nature are called the Upper Planes. Celestial creatures such as angels and pegasi dwell in the Upper Planes. Planes with some element of evil are the Lower Planes. Fiends such as demons and devils dwell in the Lower Planes. A plane’s alignment is its essence, and a character whose alignment doesn’t match the plane’s experiences a profound sense of dissonance there. When a good creature visits Elysium, for example (a neutral good Upper Plane), it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 Demiplanes
 Demiplanes are small extradimensional spaces with their own unique rules. They are pieces of reality that don’t seem to fit anywhere else. Demiplanes come into being by a variety of means. Some are created by spells, such as demiplane, or generated at the desire of a powerful deity or other force. They may exist naturally, as a fold of existing reality that
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 364
+
+
 
 has been pinched off from the rest of the multiverse, or as a baby universe growing in power. A given demiplane can be entered through a single point where it touches another plane. Theoretically, a plane shift spell can also carry travelers to a demiplane, but the proper frequency required for the tuning fork is extremely hard to acquire. The gate spell is more reliable, assuming the caster knows of the demiplane.
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 365
+
 
 Appendix MM-A:
 Miscellaneous
@@ -16098,7 +16351,8 @@ CHA
 Damage Resistances piercing
 Senses passive Perception 10
 Languages one language known by its creator Challenge 0 (10 XP)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 366
+
+
 
   STR DEX CON INT
 14 (+2) 12 (+1) 12 (+1) 2 (−4)
@@ -16176,7 +16430,8 @@ WIS
 CHA
 5 (−3)
 Skills Perception +3 Languages —
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 367
+
+
 
 Challenge 1/2 (100 XP)
 Keen Smell. The bear has advantage on Wisdom
@@ -16246,7 +16501,8 @@ WIS
 CHA
 5 (−3)
 12 (+1)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 368
+
+
 Charge. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on
 
 the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
@@ -16316,7 +16572,8 @@ CHA
    Senses blindsight 10 ft., passive Perception 10 Languages —
 Challenge 1/4 (50 XP)
 Actions
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 369
+
+
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 
 Constrict. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can’t constrict another target.
@@ -16376,7 +16633,8 @@ Challenge 1/2 (100 XP)
 Hold Breath. The crocodile can hold its breath for 15 minutes.
 Actions
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 370
+
+
 
  Speed 50 ft. STR
 11 (+0)
@@ -16451,7 +16709,8 @@ Hit Points 19 (3d10 + 3) Speed 40 ft.
 Keen Sight. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 Actions
 Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 371
+
+
 Elephant
 Huge beast, unaligned
 Armor Class 12 (natural armor) Hit Points 76 (8d12 + 24) Speed 40 ft.
@@ -16522,7 +16781,8 @@ CHA
  Skills Perception +1, Stealth +3
 Senses darkvision 30 ft., passive Perception 11 Languages —
 Challenge 0 (0 XP)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 372
+
+
 Amphibious. The frog can breathe air and water.
 Standing Leap. The frog’s long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a toad.
@@ -16589,7 +16849,8 @@ Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) 
 Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.
 Charge. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 Relentless (Recharges after a Short or Long Rest). If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 373
+
+
 
 Actions
 Tusk. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
@@ -16665,7 +16926,8 @@ Constrict. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2
 Hold Breath. The crocodile can hold its breath for 30 minutes.
 Actions
 Multiattack. The crocodile makes two attacks: one with its bite and one with its tail.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 374
+
+
 
 Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.
 Tail. Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
@@ -16726,7 +16988,8 @@ CHA
 13 (+1) Senses passive Perception 14
  Skills Perception +4
 Languages Giant Eagle, understands Common and
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 375
+
+
 
 Actions
 Bite. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 − 1) slashing damage.
@@ -16779,7 +17042,8 @@ Giant Hyena
 Large beast, unaligned
 Armor Class 12
 Hit Points 45 (6d10 + 12) Speed 50 ft.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 376
+
+
 STR
 DEX
 CON
@@ -16859,7 +17123,8 @@ Languages Giant Owl, understands Common, Elvish,
 Senses darkvision 60 ft., passive Perception 14 Languages —
 Challenge 1 (200 XP)
  Hold Breath. While out of water, the octopus can hold its breath for 1 hour.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 377
+
+
 
 Giant Poisonous Snake
 Medium beast, unaligned
@@ -16926,8 +17191,7 @@ Giant Sea Horse
 Large beast, unaligned
 Armor Class 13 (natural armor) Hit Points 16 (3d10)
 Speed 0 ft., swim 40 ft.
-  Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 378
+
 STR
 12 (+1)
 DEX CON
@@ -16986,7 +17250,8 @@ Blood Frenzy. The shark has advantage on melee attack rolls against any creature
 Water Breathing. The shark can breathe only underwater.
 Actions
 Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 379
+
+
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-­‐‑filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 Speed 10 ft., fly 60 ft.
@@ -17057,7 +17322,8 @@ CHA
  Senses passive Perception 10 Languages —
 Challenge 1/2 (100 XP)
 Actions
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 380
+
+
 Sting. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the
 
 target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
@@ -17119,7 +17385,8 @@ Senses passive Perception 10 Languages —
 Challenge 0 (10 XP)
   Senses blindsight 10 ft., darkvision 60 ft., passive Perception 13
 Languages — Challenge 1/4 (50 XP)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 381
+
+
 
 Actions
 Ram. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
@@ -17188,7 +17455,8 @@ WIS
 12 (+1)
 CHA
 6 (−2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 382
+
+
 Skills Perception +3
 Senses passive Perception 13 Languages —
 Challenge 0 (10 XP)
@@ -17249,7 +17517,8 @@ WIS
 12 (+1)
 CHA
 8 (−1)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 383
+
+
 
 Mammoth
 Huge beast, unaligned
@@ -17318,7 +17587,8 @@ CHA
  Skills Perception +3
 Senses passive Perception 13 Languages —
 Challenge 1/8 (25 XP)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 384
+
+
 
  STR DEX CON INT WIS
 4 (−3) 15 (+2) 11 (+0) 3 (−4) 10 (+0)
@@ -17385,7 +17655,8 @@ Speed 30 ft., climb 30 ft.
 Senses darkvision 60 ft., passive Perception 10
 6 (−2)
 10 (+0)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 385
+
+
 Skills Stealth +6 Languages —
 
 Challenge 3 (700 XP)
@@ -17452,7 +17723,8 @@ Challenge 1/8 (25 XP)
 Actions
   Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 386
+
+
 
 Quipper
 Tiny beast, unaligned
@@ -17512,7 +17784,8 @@ CHA
   Skills Perception +2
 Senses blindsight 30 ft., passive Perception 12 Languages —
 Challenge 1/2 (100 XP)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 387
+
+
 Pack Tactics. The shark has advantage on an attack roll against a creature if at least one of the shark’s allies is
 
 within 5 feet of the creature and the ally isn’t incapacitated.
@@ -17593,8 +17866,7 @@ WIS
 8 (−1)
 CHA
 2 (−4)
-Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 388
+
 
  Senses blindsight 10 ft., passive Perception 9 Languages —
 Challenge 0 (10 XP)
@@ -17655,7 +17927,8 @@ CHA
 Senses darkvision 30 ft., passive Perception 10 Languages —
 Challenge 0 (10 XP)
  Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 389
+
+
 
 Hit Points 22 (5d8) Speed 20 ft., climb 20 ft.
 STR DEX CON INT
@@ -17708,7 +17981,8 @@ Swarm. The swarm can occupy another creature’s space and vice versa, and the s
 1 (−5)
 10 (+0)
 3 (−4)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 390
+
+
 
 Speed 30 ft.
 STR DEX CON INT WIS CHA
@@ -17762,7 +18036,8 @@ CHA
 14 (+2)
 3 (−4)
 12 (+1) Senses darkvision 60 ft., passive Perception 13
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 391
+
+
 Skills Perception +3, Stealth +6 Languages —
 Challenge 1 (200 XP)
 Keen Smell. The tiger has advantage on Wisdom
@@ -17838,7 +18113,8 @@ Challenge 1/2 (100 XP)
 Skills Perception +5, Stealth +3
 14 (+2) Damage Immunities cold
 7 (−2)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 392
+
+
 
 Senses passive Perception 15 Languages Common, Giant, Winter Wolf Challenge 3 (700 XP)
 Keen Hearing and Smell. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
@@ -17893,10 +18169,12 @@ CHA
 Senses darkvision 60 ft., passive Perception 14 Languages Goblin, Worg
 Challenge 1/2 (100 XP)
    Skills Perception +3, Stealth +4 Senses passive Perception 13 Languages —
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 393
+
+
 
 and Goblin, and a few learn to speak Common as well.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 394
+
+
 
 Appendix MM-B:
 Nonplayer
@@ -17952,7 +18230,8 @@ Senses passive Perception 12
 10 (+0)
 Skills Medicine +4, Religion +2
 10 (+0)
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 395
+
+
 
 1st level (4 slots): detect magic, identify, mage armor,* magic missile
 2nd level (3 slots): detect thoughts, mirror image, misty step
@@ -18000,8 +18279,7 @@ Senses passive Perception 13
 Languages Thieves’ cant plus any two languages
 Armor Class 12 (leather armor) Hit Points 11 (2d8 + 2)
 Speed 30 ft.
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 396
+
 STR
 11 (+0)
 DEX
@@ -18063,7 +18341,8 @@ Challenge 2 (450 XP)
   Multiattack. The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 397
+
+
 
 Commoner
 Medium humanoid (any race), any alignment
@@ -18134,7 +18413,8 @@ Dark Devotion. The cultist has advantage on saving throws against being charmed 
 Actions
 Scimitar. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 398
+
+
 
  STR DEX CON INT WIS
 10 (+0) 12 (+1) 13 (+1) 12 (+1) 15 (+2) Skills Medicine +4, Nature +3, Perception +4
@@ -18194,7 +18474,8 @@ Senses passive Perception 12
 Languages any one language (usually Common) Challenge 1/8 (25 XP)
 Actions
 Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 +
- Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 399
+
+
 
 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
@@ -18242,7 +18523,8 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 Actions
 Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 Mages spend their lives in the study and practice of magic. Good-­‐‑aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
-   Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 400
+
+
 
 Noble
 Medium humanoid (any race), any alignment
@@ -18307,7 +18589,8 @@ CHA
  Skills Medicine +7, Persuasion +3, Religion +4 Senses passive Perception 13
 Languages any two languages
 Challenge 2 (450 XP)
-Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 401
+
+
 
 Actions
 Multiattack. The scout makes two melee attacks or two ranged attacks.
@@ -18359,7 +18642,8 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 Tribal Warrior
 Medium humanoid (any race), any alignment
 Armor Class 12 (hide armor) Hit Points 11 (2d8 + 2)
-  Not for resale. Permission granted to print or photocopy this document for personal use only. System Reference Document 5.1 402
+
+
 
 Speed 30 ft. STR
 13 (+1)
@@ -18396,5 +18680,4 @@ Languages any one language (usually Common) Challenge 3 (700 XP)
 Actions
 Multiattack. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
- Not for resale. Permission granted to print or photocopy this document for personal use only.
-System Reference Document 5.1 403
+
